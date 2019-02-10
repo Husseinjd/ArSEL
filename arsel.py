@@ -113,6 +113,7 @@ class Arsel(object):
                     em_score = em_score.strip() #clearning the new character at the end
                 word_scores.append(float(em_score))
 
+            #modifiying  word scores
             if binary:
                     word_scores= map_binary(word_scores,threshold)
             elif norm:
