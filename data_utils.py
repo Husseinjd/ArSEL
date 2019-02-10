@@ -168,7 +168,7 @@ def normalise(emotions_list):
         a = np.array(emotions_list)
 
         #checks if we will encounter any nAn
-        assert(np.isfinite(a).all() == True),"We encounter a NaN"
+        assert(np.isfinite(a).all() == True),"We encounter a NaN while dividing"
 
         a = (a-min(a)) / (max(a)-min(a))
         return a.tolist()
