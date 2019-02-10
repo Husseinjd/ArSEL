@@ -1,0 +1,1000 @@
+500#tam~-i_1;verb muwAfaqap_1;noun EalaY_1;prep {ixotibAr_1;noun tanab~u&_1;noun {inotikAs_1;noun saraTAn_1;noun vadoy_1;noun 
+501#qAl-u_1;verb maso&uwl_1;noun EirAqiy~_1;adj <ino_1;conj_sub Haliyf_1;noun Husayon_1;noun_prop $anaq-u_1;verb 
+502#ma$ohad_1;noun Sawot_1;noun min_1;prep sys 
+503#$awAp_1;noun ra>aY-a_1;verb fyrAry ka$af-i_1;verb naq~Ab_1;noun Ean_1;prep say~Arap_1;noun jadiyd_1;adj 
+504#<igolAq_1;noun <ilogA'_1;noun ma$uwrap_1;noun >aEolaY_2;adj $a>on_1;noun tafa$~iy_1;noun <inofluwanozA_1;noun 
+505#$AHinap_1;noun {ibotalaE_1;verb fiy_1;prep {inohiyAr_1;noun mitoruw_1;noun nafaq_1;noun 
+506#sArkwzy <ilikotruwniy~_1;adj mufAja>ap_1;noun faranosiy~_1;adj kAriykAtuwr_1;noun samoE_1;noun 
+507#binA'_1;noun nuSob_1;noun ta*okAriy~_1;adj {ibon_1;noun ,_0;punc Tifol_1;noun wAHid_1;noun_num fiy_1;prep kul~_1;noun_quant mar~ap_1;noun 
+508#mu$ar~iE_1;noun saEaY-a_1;verb <ilaY_1;prep HaZor_1;noun <ybwd fiy_1;prep mamar~_2;noun mA$iy_1;noun fiy_1;prep niyuwyuwrok_1;noun_prop 
+509#suk~ariy~_1;noun {inotaZar_1;verb $ahor_1;noun naZ~Arap_1;noun 
+510#xabar-u_1;verb suwdAn_1;noun_prop maboEuwv_1;noun >um~ap_1;noun mut~aHid_1;adj mugAdarap_1;noun fiy_1;prep guDuwn_1;noun 72_0;digit sAEap_1;noun 
+511#5000_0;digit sanap_1;noun EalaY_1;prep l`kino_1;conj zawoj_1;noun lA_1;part_neg zAl-a_1;verb taEAnaq_1;verb 
+512#difAE_1;noun taHad~iy_1;noun miSodAqiy~ap_1;noun rwsrt 
+513#<iwaz~ap_1;noun ,_0;punc baTal_1;noun kutolap_1;noun SaEob_1;adj 
+514#siy~_1;noun tajoriyb_1;noun mulax~aS_2;noun muHAkamap_1;noun 
+515#fiylom_1;noun raqoS_1;noun >axa*-u_1;verb >akovar_2;adj_comp raqom_1;noun 1_0;digit 
+516#dawolap_1;noun >asiyawiy~_1;adj Hav~-u_1;verb <iSolAH_1;noun miyAnomAr_1;noun_prop 
+517#baEod_1;noun riHolap_1;noun EirAq_1;noun_prop ,_0;punc {iqotaraH_1;verb kliynotuwn_1;noun_prop Had~_2;noun Harob_1;noun 
+518#7_0;digit qatiyl_1;noun fiy_1;prep mabonaY_1;noun sakaniy~_1;adj nAr_1;noun 
+519#Eiroq_1;noun *akar_1;noun Eaz~az_1;verb musotawaY_1;noun huwromuwn_1;noun maro>ap_1;noun 
+520#<i$Arap_2;noun kArfwn wArhws muxotaliT_1;adj 
+521#diymuqrATiy~_1;noun mu&Amarap_1;noun buw$_1;noun_prop ziyAdap_1;noun lawom_1;noun 
+522#syskw taqADaY_1;verb <ibol_1;noun EalaY_1;prep {isom_1;noun fuwn_1;noun_prop 
+523#bb sat~Ar_1;noun_prop jAkosuwn_1;noun_prop nafaY_1;verb taEoliyq_1;noun jwdy 
+524#<inotar_1;noun_prop mylAn_1;noun_prop taEoyiyn_1;noun daworiy~_2;noun darajap_1;noun >aw~al_2;adj_num <iyTAliy~_1;adj saj~al_1;verb fawoz_1;noun 
+525#>awos_1;noun <yrwys Eaz~az_1;verb EaroD_1;noun siEor_1;noun dilotA_1;noun 
+526#SaHAfap_1;noun ra>aY-a_1;verb >amal_1;noun fiy_1;prep muHAdavap_1;noun mak~ap_1;noun_prop 
+527#dub~_1;noun mirowaHap_1;noun faqad-i_1;verb rihAn_1;noun gay~ar_1;verb {isom_1;noun 
+528#qawomiy~_1;adj ,_0;punc rA}id_1;noun ,_0;punc {ibon_1;noun ,_0;punc xAtam_1;noun <ibAHiy~_1;adj ,_0;punc {isot_1;noun 
+529#' $iEor_1;noun ba$ariy~_1;adj ' fikorap_1;noun fiy_1;prep muTAradap_1;noun TA}irap_1;noun 
+530#juwn_1;noun diyb_1;noun_prop jaEol_1;noun fiylom_1;noun min_1;prep tasam~um_1;noun tajas~us_1;noun 
+531#Haq~_1;noun ?_0;punc :_0;punc muTAlabap_1;noun :_0;punc Hab~_1;noun manoE_1;noun Hamol_1;noun >amokan_1;verb >ano_1;conj_sub jaEal-a_1;verb waDaE_1;verb EalaY_1;prep wazon_1;noun 
+532#5_0;digit SAniE_1;noun mAl_1;noun 
+533#bas~-u_1;verb dafoE_1;noun garAmap_1;noun 2M $ Hamolap_1;noun <iEolAn_1;noun taxowiyf_1;noun qunobulap_1;noun 
+534#"_0;punc stwmb fanA'_1;noun "_0;punc ladaY_1;noun taHar~uk_1;noun fawoz_1;noun fiy_1;prep >aw~al_2;adj_num mar~ap_1;noun fiy_1;prep EuTolap_1;noun nihAyap_1;noun >usobuwE_1;noun 
+535#{ikoti$Af_1;noun walad_1;noun jalab-iu_1;verb Sadomap_1;noun ,_0;punc faraH_1;noun 
+536#bironArd_1;noun_prop taEoyiyn_1;noun mugAdarap_1;noun fwlks janiyn_2;noun 
+537#bAsrz jAkosuwn_1;noun_prop {ifotaqad_1;verb samoE_1;noun bunoduqiy~ap_1;noun 
+538#HAlap_1;noun :_0;punc Einod_1;noun kAn-u_1;verb Hal~_1;noun basiyT_1;adj huwa_1;pron Hal~_1;noun SaHiyH_1;adj 
+539#qAm-u_1;verb jamAEap_1;noun musolim_1;adj muqADAp_1;noun SaHiyfap_1;noun faranosiy~_1;adj dawoliy~_1;adj 
+540#juwlodin_1;noun_prop glwb fiy_1;prep Tariyq_1;noun 
+541#fiy_1;prep niyuw_1;noun_prop >wzfyst ,_0;punc Hur~iy~ap_1;noun layosa_1;verb Hur~_1;adj 
+542#dir~ap_1;noun sal~am_1;verb SaEob_1;adj >usoturAliy~_1;adj rasom_1;noun 
+543#mutaZAhir_1;noun ynhywn <iDorAb_1;noun fiy_1;prep waqot_1;noun Al~a*iy_1;pron_rel {iEotaraf_1;verb fiy_1;prep nybAl maTolab_1;noun 
+544#tyrnr dafaE-a_1;verb vaman_1;noun "_0;punc tafojiyr_1;noun "_0;punc buwsoTun_1;noun_prop 
+545#{ivonayoni_1;noun muHotajaz_1;adj fiy_1;prep juzo'_1;noun jisom_1;noun bariydiy~_1;adj 
+546#maqAl_1;noun :_0;punc Ean_1;prep h`*A_1;pron_dem EanaY-i_1;verb silosilap_1;noun min_1;prep li-_1;prep :_0;punc Tib~_1;noun nafosiy~_1;adj >amokan_1;verb >ano_1;conj_sub faEal-a_1;verb faqaT_1;adv kaviyr_2;adj 
+547#{ibon_1;noun >ax_1;noun Husayon_1;noun_prop tanA$ad_1;verb HayAp_1;noun >ab_1;noun 
+548#sArkwzy ,_0;punc miroHAD_1;noun ,_0;punc b_1;abbrev ,_0;punc SAdim_1;adj ,_0;punc <ilaY_1;prep dAxil_1;noun ,_0;punc rasom_1;noun ,_0;punc Saf~_1;noun 
+549#$abakap_1;noun EAlamiy~_1;adj min_1;prep mu$otabah_1;adj bi_1;prep fiy_1;prep {igotiSAb_1;noun Tifol_1;noun tanoziyl_1;noun 
+550#bil~iy_1;noun hazam-i_1;verb muwyA_1;noun_prop {iHotifAZ_1;noun EunowAn_1;noun 
+551#EASifap_1;noun qatal-u_1;verb ,_0;punc Darob_1;noun suloTap_1;noun ,_0;punc <ilogA'_1;noun riHolap_1;noun jaw~iy~_1;adj 
+552#HawoD_1;noun samak_1;noun waDaE_1;verb Huwt_1;noun bylwgA mariyD_1;noun <ilaY_1;prep nawom_1;noun 
+553#mAyokruwsuwft_1;noun_prop ,_0;punc suwniy_1;noun_prop ,_0;punc ladaY_1;noun mu$okilap_1;noun 
+554#dawolap_1;noun $uroTap_1;noun ?_0;punc qaDiy~ap_1;noun 
+555#Har~_1;noun HaZor_1;noun jihAz_1;noun <ybwd min_1;prep Eubuwr_1;noun $AriE_1;noun 
+556#hinod_1;noun_prop tAj_1;noun_prop maHal~_1;noun HaSal-u_1;verb EalaY_1;prep tajomiyl_1;noun wajoh_1;noun 
+557#t$iyniy_1;noun_prop <ilaY_1;prep kuwnojris_1;noun_prop :_0;punc lA_1;part_neg >amokan_1;verb ta$ogiyl_1;noun Harob_1;noun EirAqiy~_1;adj min_1;prep qibal_1;noun lajonap_1;noun 
+558#tasoliym_1;noun gAngwly hinod_1;noun_prop firoqap_1;noun daEowap_1;noun 
+559#varowap_1;noun :_0;punc baHav-a_1;verb warA'_1;noun fuwn_1;noun_prop 
+560#Haq~_1;noun ?_0;punc :_0;punc muTAlabap_1;noun :_0;punc maqoEad_1;noun xalofiy~_1;adj say~Arap_1;noun huwa_1;pron makAn_1;noun >akovar_2;adj_comp >amAn_1;noun juluws_1;noun 
+561#tafowiyD_1;noun laqAH_1;noun >avAr_1;verb mu$ar~iE_1;noun 
+562#taHoliyl_1;noun xabar_1;noun :_0;punc tam~-i_1;verb waDoE_1;noun tabAhiy_1;noun <iyrAniy~_1;adj {ixotibAr_1;noun 
+563#>aSodar_1;verb fariyq_1;noun taqoriyr_1;noun qAtim_1;adj Ean_1;prep >agAr_1;verb munAx_1;noun 
+564#ZAhiriy~_1;adj ' >amoriykiy~_1;noun >ydwl ' Darab_1;verb mulAHaZap_2;noun Haq~_1;noun 
+565#{inofijAr_1;noun say~Arap_1;noun mufax~ax_1;adj fiy_1;prep EirAq_1;noun_prop >asofar_1;verb Ean_1;prep maqotal_1;noun 22_0;digit $axoS_1;noun jaraH-a_1;verb >akovar_2;adj_comp min_1;prep 60_0;digit $axoS_1;noun 
+566#' stwmb ' xaTowap_1;noun <ilaY_1;prep raqom_1;noun 1_0;digit fiy_1;prep $abakap_1;noun ta*okarap_1;noun 
+567#Eamil-a_1;verb gwgl tanofiy*iy~_1;adj maboEuwv_1;noun niy~ap_1;noun Hasan_1;adj 
+568#{imora>ap_1;noun fiyliyb~iyniy~_1;adj {ixotaTaf_1;verb fiy_1;prep nayojiyriyA_1;noun_prop 
+569#,_0;punc syhwks ,_0;punc dub~_1;noun ,_0;punc fiy_1;prep ,_0;punc b_1;abbrev ,_0;punc tajoribap_1;noun ,_0;punc <ilaY_1;prep ,_0;punc nafol_1;noun ,_0;punc tytl 
+570#brAwn_1;noun_prop gayor_1;noun madofuwn_1;adj EalaY_1;prep >an~a_1;conj_sub qaDiy~ap_1;noun EaqAr_1;noun lAH-u_1;verb fiy_1;prep >ufuq_1;noun 
+571#sawofa_1;part_fut rawob_1;noun kuwhiyn_1;noun_prop mubA$ir_1;adj vAliv_1;adj_num "_0;punc muwmiyA'_1;noun "_0;punc ?_0;punc 
+572#sawofa_1;part_fut Hav~-u_1;verb {it~iHAd_1;noun >uwrub~iy~_1;adj Siyn_1;noun_prop EalaY_1;prep *ahAb_1;noun >axoDar_1;adj 
+573#EilAj_1;noun qaron_1;noun sAbiE_1;adj_num Ea$ar_1;noun_num ;_0;punc 21st-سينتوري bwtnsy 
+574#tawaq~aE_1;verb xabiyr_1;noun tanab~u&_1;noun EAm_1;noun 2007_0;digit 
+575#' $amos_1;noun mu$oriq_1;adj ' gwydws fAz-u_1;verb suwniy_1;noun_prop mafotuwH_1;adj 
+576#mudar~is_1;noun mut~aham_1;adj {iEotidA'_1;noun jinosiy~_1;adj 
+577#miyrap_1;noun :_0;punc gArdAsyl qado_1;part_verb muHArabap_1;noun maziyd_1;noun min_1;prep sulAlap_1;noun 
+578#qAl-u_1;verb >um~ap_1;noun mut~aHid_1;adj <ino_1;conj_sub nahor_1;noun jaliydiy~_1;adj jabaliy~_1;adj *Ab-u_1;verb $akol_1;noun >asoraE_2;adj_comp 
+579#valoj_1;noun sab~ab_1;verb <igolAq_1;noun maTAr_1;noun fiy_1;prep briyTAniyA_1;noun_prop 
+580#bAnAnAkwndA muxotaraE_1;adj huwa_1;pron $AEir_1;noun >aEolaY_2;adj_comp Tifol_1;noun 
+581#musAhim_1;noun muqADAp_1;noun <ibol_1;noun 
+582#<isorA}iyliy~_1;noun rad~-u_1;verb baEod_1;noun hujuwm_1;noun jayo$_1;noun lubonAniy~_1;adj 
+583#>ak~ad_1;verb <inofluwanozA_1;noun Tayor_1;noun qAtil_1;adj fiy_1;prep turokiyA_1;noun_prop briyTAniy~_1;adj 
+584#nawom_1;noun qaliyl_1;adj jid~_1;noun qado_1;part_verb EanaY-i_1;verb Tifol_1;noun duhon_1;noun jid~_1;noun 
+585#{isotiHomAm_1;noun >um~_1;noun {isotayoqaZ_1;verb Euvuwr_1;noun EalaY_1;prep Tifol_1;noun may~it_1;noun 
+586#zA}ir_1;noun buroj_2;noun_prop Ayfl tasal~uq_1;noun fiy_1;prep EAm_1;noun 2006_0;digit 
+587#>akovar_2;adj_comp nawom_1;noun ,_0;punc SiH~ap_1;noun Tifol_1;noun >aqal~_2;adj_comp Hajom_1;noun 
+588#maEorakap_1;noun malikap_1;noun buwnd_1;noun_prop li_1;prep bftAs 
+589#wAlotiroz_1;noun_prop >awon_1;noun trAmb :_0;punc "_0;punc rajul_1;noun say~i'_1;adj muviyr_1;adj $afaqap_1;noun "_0;punc 
+590#EASifap_1;noun valoj_1;noun DaHik-a_1;verb Tariyq_1;noun TAqap_1;noun 
+591#<iyrAn_1;noun_prop qAl-u_1;verb >an~a_1;conj_sub Darab_1;verb maSolaHap_1;noun wilAyap_1;noun mut~aHid_1;adj <i*A_1;conj_sub taEar~aD_1;verb hujuwm_1;noun 
+592#faSiyl_1;noun filasoTiyniy~_1;adj {isoti}onAf_1;noun muHAdavap_1;noun 
+593#dirAsap_1;noun :_0;punc Eiroq_1;noun rajul_1;noun >ad~aY_1;verb {irotifAE_1;noun <ivArap_1;noun jinosiy~_1;adj fiy_1;prep nisA'_1;noun 
+594#>wtkry fiy_1;prep N kuwriyA_1;noun_prop ' {ixotibAr_1;noun nawawiy~_1;adj ' 
+595#xaT~aT_1;verb ruwsiyA_1;noun_prop binA'_1;noun Easokariy~_1;adj kabiyr_1;adj 
+596#EAlim_1;noun >avar_1;noun Euvuwr_1;noun EalaY_1;prep baqiy~ap_1;noun zawoj_1;noun muqofal_1;adj fiy_1;prep EinAq_1;noun 
+597#nasiy-a_1;verb dAfaE_1;verb Ean_1;prep laqab_1;noun fiy_1;prep dubay~_1;noun_prop 
+598#>axa*-u_1;verb gaTos_1;noun 
+599#taHodiyv_1;noun EalaY_1;prep >aham~_2;adj_comp qiS~ap_1;noun EAlim_1;noun 
+600#rajul_1;noun rukuwb_1;noun dar~Ajap_1;noun vAbit_1;adj mud~ap_1;noun 85_0;digit sAEap_1;noun 
+601#EASifap_1;noun valoj_1;noun Taloy_1;noun garob_1;noun >awosaT_1;adj_comp 
+602#A mystryAl fawor_1;noun lywt ._0;punc {it~a>ad_1;verb 
+603#<iyrAn_1;noun_prop Ha*~ar_1;verb min_1;prep >an~a_1;conj_sub taEar~aD_1;verb wilAyap_1;noun mut~aHid_1;adj <i*A_1;conj_sub hAjam_1;verb 
+604#{inotahaY_1;verb muHAdavap_1;noun >asoyAn_1;noun Hawol_1;noun >amon_1;noun TAqap_1;noun 
+605#Eadad_1;noun qatiyl_1;noun EirAqiy~_1;adj tajAwaz_1;verb 34,000_0;digit fiy_1;prep EAm_1;noun 2006_0;digit ,_0;punc wifoq_1;noun >um~ap_1;noun mut~aHid_1;adj 
+606#<isorA}iyl_1;noun_prop kav~af_1;verb riHolap_1;noun Easokariy~_1;adj fawoq_1;noun lubonAn_1;noun_prop 
+607#>adAp_1;noun jadiyd_1;adj wAEid_1;adj fiy_1;prep maEoriD_1;noun fan~iy~_1;adj 
+608#wafAp_1;noun >uxoraY_1;adj fiy_1;prep juwrojiyA_1;noun_prop >kwrywm 
+609#wilAyap_1;noun mut~aHid_1;adj Hav~_1;noun nAtuw_1;noun_prop hujuwm_1;noun rabiyE_1;noun >afogAniy~_1;adj 
+610#>uwk_1;noun_prop <ilikotruwniy~_1;adj qunobulap_1;noun qado_1;part_verb kAn-u_1;verb min_1;prep sA}iq_1;noun mutaTar~if_1;noun 
+611#>asoyA_1;noun_prop saEaY-a_1;verb taHoqiyq_1;noun {inofirAj_1;noun EalaY_1;prep kuwriyA_1;noun_prop $amAliy~_1;adj 
+612#dir~ap_1;noun tagal~ab_1;verb EalaY_1;prep bidAyap_1;noun >axo$an_1;noun 
+613#ruwdiy_1;noun_prop mu$aj~iE_1;adj <ixorAj_1;noun min_1;prep fatoH_1;noun 
+614#muHotaj~_1;noun tyrAy dAn-i_1;verb {inotiSAr_1;noun "_0;punc tAriyxiy~_1;adj "_0;punc EalaY_1;prep Hukuwmap_1;noun 
+615#gaDab_1;noun Einod_1;noun <iforAj_1;noun Ean_1;prep {ivon_1;noun_num Eaqod_1;noun EalaY_1;prep qaToE_1;noun ra>os_1;noun qiToEap_1;noun >aroD_1;noun 
+616#buw$_1;noun_prop >aSar~_1;verb EalaY_1;prep quw~ap_1;noun <ilaY_1;prep EirAq_1;noun_prop 
+617#biyAnuw_1;noun nywyrv HaSal-u_1;verb EalaY_1;prep "_0;punc ta*abo*ub_1;noun mar~ap_1;noun >uxoraY_1;adj "_0;punc 
+618#biykohAm_1;noun_prop <ilaY_1;prep L.A ._0;punc :_0;punc luEobap_1;noun lA_1;part_neg $uhorap_1;noun 
+619#nawom_1;noun >akovar_2;adj_comp muHArabap_1;noun badAnap_1;noun fiy_1;prep maroHalap_1;noun Tufuwlap_1;noun 
+620#Eab~As_1;noun_prop rafaD-u_1;verb dawolap_1;noun mu&aq~at_1;adj 
+621#taHoqiyq_1;noun fiy_1;prep mawoqiE_1;noun <ibAHiy~_1;adj Tifol_1;noun Darab_1;verb 77_0;digit dawolap_1;noun 
+622#slywvs EalaY_1;prep maqorabap_1;noun min_1;prep manozil_1;noun >wdysyws 
+623#mutanaw~iE_1;adj :_0;punc juwn_1;noun diyb_1;noun_prop jaEol_1;noun fiylom_1;noun min_1;prep tasam~um_1;noun tajas~us_1;noun 
+624#EASifap_1;noun valojiy~_1;adj $al~-u_1;verb wasaT_1;noun wilAyap_1;noun mut~aHid_1;adj ._0;punc 
+625#bArAk_1;noun_prop najom_1;noun mA_4;conj_sub mut~aHid_1;adj HifAZ_1;noun EalaY_1;prep raSAS_1;noun 
+626#{ikota$af_1;verb EaSor_1;noun mA_1;pron_rel qabol_1;noun tAriyx_1;noun ruwmiy~_1;noun juwliyiyt_1;noun_prop 
+627#muEal~im_1;noun $ahiyr_1;adj fiy_1;prep hinod_1;noun_prop HaSal-u_1;verb EalaY_1;prep tajomiyl_1;noun wajoh_1;noun 
+628#bidAyap_1;noun juwziyf_1;noun_prop wAmbw jadiyd_1;adj 
+629#wafAp_1;noun mu$Arik_1;noun fiy_1;prep musAbaqap_1;noun mA'_1;noun $urob_1;noun 
+630#<ibol_1;noun qiTAr_1;noun qunobulap_1;noun maE_1;noun >ay~_1;noun_quant fuwn_1;noun_prop 
+631#bwlywwd ' brAnjylynA ' $Arak_1;verb 
+632#qAl-u_1;verb EirAq_1;noun_prop >an~a_1;conj_sub muqAtil_1;noun $iyEap_1;noun {iEotaqal_1;verb fiy_1;prep Eamaliy~ap_1;noun qamoE_1;noun
+633#riyuw_1;noun_prop diy_1;noun_prop jAniyruw_1;noun_prop majal~ap_1;noun :_0;punc rasom_1;noun xaT~_2;noun Eabor_1;noun ramol_1;noun ,_0;punc bayona_1;noun Tabaqap_1;noun 
+634#maboda>_1;noun tawojiyhiy~_1;adj SiH~iy~_1;adj namuw*aj_1;noun -_0;punc halo_1;part_interrog sAEad_1;verb ?_0;punc 
+635#xaTA-u_1;verb mar~ap_1;noun >uxoraY_1;adj fiy_1;prep waqot_1;noun munAsib_1;adj fiy_1;prep munotajaE_1;noun tazal~uj_1;noun 
+636#{ixotibAr_1;noun Alkrykyt sijon_1;noun EalaY_1;prep qatol_1;noun 
+637#jawoz_1;noun "_0;punc mukAfaHap_1;noun duhon_1;noun gayor_1;noun SiH~iy~_1;adj "_0;punc 
+638#<ibol_1;noun {isotA'_1;verb taroqiyap_1;noun :_0;punc "_0;punc {inotaZar_1;verb "_0;punc 
+639#<iSAbap_1;noun srwAn >an~a_1;conj_sub gAb-i_1;verb Ean_1;prep wAHid_1;noun_num 
+640#$arikap_1;noun fiy_1;prep HAlap_1;noun ta>ah~ub_1;noun risAlap_1;noun qunobulap_1;noun 
+641#<isotuwdiyuw_1;noun tasojiyl_1;noun xuruwj_1;noun EalaY_1;prep tanoziyl_1;noun fiylom_1;noun 
+642#EASif_1;adj EAd-u_1;verb maE_1;noun >arobaE_1;noun_num wykyt masAfap_1;noun 
+643#>u*un_1;noun buw$_1;noun_prop {iEotiqAl_1;noun <iyrAniy~_1;adj fiy_1;prep EirAq_1;noun_prop ,_0;punc wifoq_1;noun mA_1;pron_rel *akar-u_1;verb rAyos_1;noun_prop 
+644#<ibAHiy~ap_1;noun Haloqap_1;noun faDiyHap_1;noun waSal-i_1;verb >usoturAliyA_1;noun_prop 
+645#{iEotaqal_1;verb nA}ib_1;noun waziyr_1;noun SiH~ap_1;noun fiy_1;prep gArap_1;noun >amoriykiy~_1;adj EirAqiy~_1;adj 
+646#{iEotaqad_1;verb sinAtuwr_1;noun kArl_1;noun_prop kryjr >an~a_1;conj_sub jihAz_1;noun Al|ybwd >amokan_1;verb >ano_1;conj_sub qatal-u_1;verb 
+647#>axiyr_1;adj ,_0;punc majolis_1;noun $ayox_1;noun wAfaq_1;verb EalaY_1;prep ma$oruwE_1;noun qAnuwn_1;noun mukAfaHap_1;noun <irohAb_1;noun mAniylA_1;noun_prop 
+648#>aEolan_1;verb SuwmAl_1;noun_prop HAlap_1;noun TAri}ap_1;noun 
+649#ma>otaY_1;noun >aDA'_1;verb maE_1;noun nihAyap_1;noun jabal_1;noun >alob_1;noun_prop li-_1;prep 
+650#bb ra}iys_1;noun tanofiy*iy~_1;adj brAwn_1;noun_prop tanaH~iy_1;noun fiy_1;prep yuwniyuw_1;noun_prop HaziyrAn_1;noun_prop 
+651#>ay~_2;pron_interrog fuwn_1;noun_prop min_1;prep qibal_1;noun >ay~_1;noun_quant {isom_1;noun |xar_1;adj ?_0;punc ta>okiyd_1;noun lA_1;part_neg 
+652#HayAp_1;noun fiy_1;prep gaz~ap_1;noun_prop {izodAd_1;verb suw'_1;noun 
+653#taHad~iy_1;noun TAqap_1;noun | ru&aY_1;noun gariyb_1;adj :_0;punc kayofiy~ap_1;noun taboriyd_1;noun kawokab_1;noun (_0;punc rub~amA_1;adv )_0;punc 
+654#Tariyq_1;noun sahol_1;adj li_1;prep (_0;punc Haq~_1;adj )_0;punc <inoqA*_1;noun 400,000_0;digit $ 
+655#musAhim_1;noun muqADAp_1;noun <ibol_1;noun 
+656#natiyjap_1;noun :_0;punc halo_1;part_interrog >amokan_1;verb ba$ariy~ap_1;noun baqA'_1;noun EalaY_1;prep qayod_1;noun HayAp_1;noun ?_0;punc >arAd_1;verb rihAn_1;noun EalaY_1;prep *`lika_1;pron_dem ?_0;punc 
+657#<iyrAn_1;noun_prop SaEid-a_1;verb <inotAj_1;noun yuwrAniyuwm_1;noun EalaY_1;prep musotawaY_1;noun silAH_1;noun 
+658#safiynap_1;noun $aHon_1;noun had~ad_1;verb tazaHoluq_1;noun EalaY_1;prep $ATi}_1;noun 
+659#filasoTiyniy~_1;noun qAl-u_1;verb <ino_1;conj_sub SidAm_1;noun |*aY_1;verb qaDiy~ap_1;noun 
+660#Eiroq_1;noun *akar_1;noun >amokan_1;verb >ano_1;conj_sub rafaE-a_1;verb huwromuwn_1;noun 
+661#EalAmap_1;noun Hayawiy~_1;adj :_0;punc maxATir_1;noun :_0;punc muDAd~_1;noun {ikoti}Ab_1;noun murotabiT_1;adj kasor_2;noun fiy_1;prep kabiyr_1;adj sin~_1;noun 
+662#Eaqod_1;noun biyruwn_1;noun_prop >akovar_2;adj_comp min_1;prep 70_0;digit vAniy_1;adj_num min_1;prep {inotihAk_2;noun Haq~_1;noun 
+663#baHov_1;noun Ean_1;prep HayAp_1;noun faDA}iy~_1;adj taHaw~al_1;verb <ilaY_1;prep tilofizyuwn_1;noun 
+664#suwbar_2;noun_prop buwl_1;noun_prop <iEolAn_1;noun Eunof_1;noun kArtwnyzy ,_0;punc rub~amA_1;adv Eakas-i_1;verb xasArap_1;noun Harob_1;noun 
+665#qAl-u_1;verb ywtywb <isoqAT_1;noun ma$ohuwr_1;noun jinos_1;noun fiydoyuw_1;noun 
+666#biykohAm_1;noun_prop buw$_1;noun_prop maziyd_1;noun min_1;prep riyADiy~_1;adj ma$ohuwr_1;noun 
+667#madiynap_1;noun waDaE_1;verb maloja>_1;noun EASifap_1;noun jaliyd_1;noun 
+668#EuDow_1;noun niyAbap_1;noun EAm~_1;adj fiy_1;prep liybiy~_1;noun {inotaZar_1;verb Hukom_1;noun qADiy_1;noun 
+669#murAjaEap_1;noun :_0;punc "_0;punc >alof_1;noun_num kalob_1;noun "_0;punc {ifotaqad_1;verb h`*A_1;pron_dem nuqoTap_1;noun 
+670#jumohuwriy~_1;noun {iEotazam_1;verb manoE_1;noun munAqa$ap_1;noun EirAq_1;noun_prop 
+671#rad~_1;noun fiEol_1;noun muxotaliT_1;adj EalaY_1;prep dafoE_1;noun Siyn_1;noun_prop fiy_1;prep >aforiyqiyA_1;noun_prop 
+672#,_0;punc valoj_1;noun mugaT~aY_1;adj ,_0;punc <ilaY_1;prep dAxil_1;noun ,_0;punc Al_1;part_det taEoriyf_1;noun ,_0;punc Alrwkyz kanadiy~_1;noun 
+673#taxaT~iy_1;noun {isotiHomAm_1;noun :_0;punc Eiroq_1;noun *akar_1;noun taHaw~al_1;verb maro>ap_1;noun EalaY_1;prep ,_0;punc qAl-u_1;verb dirAsap_1;noun 
+674#luTof_1;noun bakaY-i_1;verb ' waraq_1;noun Hat~aY_1;prep bayoE_1;noun 
+675#kAnyt fAz-u_1;verb {ifotitAHiy~_1;adj jwbwrg mafotuwH_1;adj 
+676#majomuwEap_1;noun Haq~_1;noun tawaq~uf_1;noun Eunof_1;noun nybAl 
+677#EAnaY_1;verb Haqiyqiy~_1;adj kAroluws_1;noun_prop <iSAbap_1;noun nakosap_1;noun 
+678#qado_1;part_verb kAn-u_1;verb rA}id_1;noun faDA'_1;noun qado_1;part_verb xabuv-u_1;verb taHota_1;noun DagoT_1;noun 
+679#musal~aH_3;noun {ixotaTaf_1;verb {imora>ap_1;noun fiyliyb~iyniy~_1;adj fiy_1;prep nayojiyriyA_1;noun_prop 
+680#mirowaHap_1;noun fariyq_1;noun nafol_1;noun min_1;prep sanap_1;noun :_0;punc "_0;punc Eilom_1;noun say~idap_1;noun "_0;punc 
+681#lA_1;part_neg 10_0;digit rafaD-u_1;verb muTAlabap_1;noun dawolap_1;noun $uroTap_1;noun 
+682#TayarAn_1;noun mAliyziy~_1;adj X TayarAn_1;noun fiy_1;prep yuwliyuw_1;noun_prop tam~uwz_1;noun_prop 
+683#10_0;digit {ixotaTaf_1;verb fiy_1;prep qAEidap_2;noun nafoT_1;noun nayojiyriyA_1;noun_prop 
+684#Eiroq_1;noun rajul_1;noun huwa_1;pron fAtin_2;noun magonaTiys_1;noun 
+685#balodap_1;noun siyAHap_1;noun muzodahir_1;adj fiy_1;prep januwb_1;noun >aforiyqiyA_1;noun_prop 
+686#' >alof_1;noun_num kalob_1;noun ' {ifotaqad_1;verb h`*A_1;pron_dem nuqoTap_1;noun 
+687#qAm-u_1;verb zaEiym_1;noun <iyrAn_1;noun_prop ziyArap_1;noun nykArAgwA 
+688#' ramAdiy~_1;adj ' ,_0;punc ' quroSAn_1;noun ' raSAS_1;noun {ixotiyAr_1;noun $aEob_1;noun 
+689#$abakap_1;noun <irohAb_1;noun 
+690#|n_1;noun >an~a_1;conj_sub rasomiy~_1;adj :_0;punc fawoDaY_1;noun EirAq_1;noun_prop 
+691#valoj_1;noun jalab-iu_1;verb bu&os_1;noun safar_1;noun <ilaY_1;prep <inojilotirA_1;noun_prop 
+692#{ibon_1;noun jiyms_1;noun_prop brAwn_1;noun_prop bAlig_1;adj min_1;prep Eumor_1;noun 5_0;digit sanap_1;noun xaraj-u_1;verb Ean_1;prep <irAdap_1;noun 
+693#rajul_1;noun qatal-u_1;verb EalaY_1;prep yad_1;noun qiTAr_1;noun nafaq_1;noun fiy_1;prep lanodan_1;noun_prop 
+694#miloyuwn_1;noun_num >amoriykiy~_1;noun lA_1;part_neg {i$otaraY_1;verb nufuw*_1;noun fiy_1;prep masoraHiy~ap_1;noun suloTap_1;noun qAtil_1;adj fiy_1;prep gaz~ap_1;noun_prop 
+695#wAfaq_1;verb min_1;prep waziyr_1;noun munaZ~amap_1;noun taHoriyr_1;noun filasoTiyniy~_1;adj fiy_1;prep mak~ap_1;noun_prop mukar~am_1;adj  
+696#sirob_1;noun {iEoti*Ar_1;noun EalaY_1;prep ' wud~iy~_1;adj nAr_1;noun ' mawot_1;noun 
+697#Eunof_1;noun fiy_1;prep niyuw_1;noun_prop >wrlyAnz >a$oEal_1;verb maxAfap_1;noun siyAHap_1;noun 
+698#Tay~Ar_1;noun nAr_1;noun wud~iy~_1;adj "_0;punc min_1;prep *A_2;noun xiborap_1;noun "_0;punc 
+699#SPACE.com: vaqob_1;noun >asad_1;noun raSad-u_1;verb valAv_1;noun_num 
+700#AllqAHAt :_0;punc wilAyap_1;noun >awo_1;conj {ixotiyAr_1;noun ?_0;punc 
+701#$agab_1;noun junodiy~_1;noun kuwnoguwliy~_1;adj ,_0;punc nahob_1;noun qaDiy~ap_1;noun >ajor_2;noun 
+702#siloEap_1;noun >ad~aY_1;verb <ilaY_1;prep {irotifAE_1;noun >uwrub~A_1;noun_prop 
+703#EunoSur_1;noun fiy_1;prep Eiroq_1;noun *akar_1;noun >avAr_1;verb musotawaY_1;noun huwromuwn_1;noun maro>ap_1;noun 
+704#gwt$l {inotahaY_1;verb namosAwiy~_1;noun jafAf_1;noun fawoz_1;noun 
+705#yawom_1;noun qiyAmap_1;noun sAEap_1;noun mawoquwt_1;adj baEiyd_1;adj 
+706#quw~ap_1;noun tajam~aE_1;verb Hawol_1;noun balodap_1;noun SuwmAliy~_1;adj 
+707#TAriq_1;noun_prop ramaDAn_1;noun_prop ladaY_1;noun qaDiy~ap_1;noun huwiy~ap_1;noun 
+708#Talab-u_1;verb byryts min_1;prep quw~ap_1;noun difAE_1;noun <isorA}iyliy~_1;adj rad~_1;noun quw~ap_1;noun EalaY_1;prep hajomap_1;noun Had~_2;noun $amAliy~_1;adj  
+709#taHaT~am_1;verb qiTAr_1;noun qurob_1;noun min_1;prep munotajaE_1;noun munotajaE_1;noun tAyolanodiy~_1;adj 
+710#HamAs_1;noun_prop fatoH_1;noun Eawodap_1;noun <ilaY_1;prep muHAdavap_1;noun Hukuwmap_1;noun fiy_1;prep mak~ap_1;noun_prop mukar~am_1;adj 
+711#AlrAtnj rubuE_1;noun_quant rAbiE_1;adj_num {inotahaY_1;verb $wAHn 
+712#7_0;digit mAt-u_1;verb bayonamA_1;conj_sub taHaT~um_1;noun mirowaHiy~ap_1;noun >amoriykiy~_1;adj fiy_1;prep EirAq_1;noun_prop 
+713#miloyuwniyr_1;noun sir~_1;noun sAnotA_1;noun_prop mAt-u_1;verb 
+714#mwrysy qado_1;part_verb hataf-i_1;verb ywrwfysywn 
+715#daliyl_1;noun qiymap_1;noun masiyHiy~_1;noun dAngy wa_1;conj kwlts 
+716#>avAr_1;verb fatAp_1;noun <isorA}iyliy~_1;adj gaDab_1;noun by<m 
+717#mar~-u_1;verb Sarof_1;noun >aSobaH_1;verb nuqoTap_1;noun <iHobAT_1;noun siyAsiy~_1;adj 
+718#$uroTap_1;noun taHoqiyq_1;noun 2_0;digit kaniysap_1;noun Hariyq_1;noun niSof_1;noun_quant mayol_1;noun baEiyd_1;adj 
+719#<iyTAliyA_1;noun_prop muHAkamap_1;noun junodiy~_1;noun >amoriykiy~_1;adj wafAp_1;noun wakiyl_1;noun EirAqiy~_1;adj 
+720#diyb_1;noun_prop jam~-iu_1;verb fiy_1;prep fiylom_1;noun tasam~um_1;noun tajas~us_1;noun 
+721#' 24_0;digit ' jAk_1;noun_prop bAwir_1;noun_prop EAd-u_1;verb 
+722#>awos_1;noun <yrwys Eaz~az_1;verb EaroD_1;noun siEor_1;noun dilotA_1;noun 
+723#Hat~aY_3;part qabol_1;noun <iSodAr_1;noun taqoriyr_1;noun ,_0;punc <in~a_1;verb_pseudo taqoriyr_1;noun munAx_1;noun EAlamiy~_1;adj {inotaqad_1;verb >an~a_1;conj_sub mutafA}il_1;adj jid~_1;noun 
+724#>ayoDAF_1;adv $anaq_1;noun $anaq_1;noun >uwriy_1;noun_prop ,_0;punc Zahar-a_1;verb $ariyT_1;noun EirAqiy~_1;adj 
+725#hAwl >axa*-u_1;verb raSASap_1;noun wAHid_1;noun_num fiy_1;prep suwniy_1;noun_prop mafotuwH_1;adj 
+726#$iyk_1;noun nafosiy~_1;adj Al~a*iy_1;pron_rel tam~-i_1;verb murAjaEap_1;noun baEod_1;noun ta$aq~uq_1;noun rA}id_1;noun faDA'_1;noun 
+727#{ixotibAr_1;noun bAb_1;noun ,_0;punc huwa_1;pron diEAmap_1;noun >asAsiy~_1;adj Did~_1;noun saraTAn_1;noun Eunoq_1;noun raHim_1;noun ,_0;punc qado_1;part_verb kAn-u_1;verb talA$aY_1;verb 
+728#mArtynz qAd-u_1;verb niyuwkAsil_1;noun_prop qitAl_1;noun 
+729#PS3 vaman_1;noun l`kino_1;conj muviyr_1;adj <iEojAb_1;noun 
+730#{inotiqAm_1;noun bluwtuw_1;noun_prop :_0;punc jA}izap_1;noun "_0;punc kalimap_1;noun EAm~_1;adj "_0;punc 
+731#wikAlap_1;noun faDA'_1;noun >uwrub~iy~_1;adj 
+732#quroSAn_1;noun Darob_1;noun EalaY_1;prep xAdim_1;noun <inotironit_1;noun_prop ra}iysiy~_1;adj 
+733#>aEodam_1;verb 733_0;digit Husayon_1;noun_prop mud~aEaY_1;adj EalaY_1;prep 
+734#mu*ak~irap_1;noun min_1;prep frAnokofuwrot_1;noun_prop :_0;punc >alomAniyA_1;noun_prop {isotarojaE_1;verb <irohAb_1;noun fiy_1;prep saboEiyniy~_1;noun ,_0;punc Hayovu_1;adv_rel saEaY-a_1;verb 2_0;digit <ilaY_1;prep <iforAj_1;noun Ean_1;prep sijon_1;noun 
+735#niEomap_1;noun fiy_1;prep >wjAy 
+736#hiyuwsotun_1;noun_prop ,_0;punc >an~a_1;conj_sub HaSal-u_1;verb EalaY_1;prep baEoD_1;noun_quant mu$okilap_1;noun 
+737#Amazon.com ladaY_1;noun "_0;punc >afoDal_2;adj_comp min_1;prep >ay~_1;noun_quant waqot_1;noun maDaY-i_1;verb "_0;punc mabiyE_1;noun 
+738#quroSAn_1;noun hAjam_1;verb xAdim_1;noun ji*or_1;noun 
+739#laEob_1;noun fiydoyuw_1;noun >amokan_1;verb >ano_1;conj_sub >aHosan_1;verb ru&oyap_1;noun 
+740#<inotironit_1;noun_prop hAjam_1;verb !_0;punc (_0;punc halo_1;part_interrog lAHaZ_1;verb >ay~_1;noun_quant $axoS_1;noun ?_0;punc )_0;punc 
+741#fiy_1;prep wA$inoTuwn_1;noun_prop ,_0;punc qAm-u_1;verb muqAwil_1;noun >akobar_2;adj_comp dawor_1;noun EalaY_1;prep <iTolAq_1;noun 
+742#fayaDAn_1;noun >ajobar_1;verb Eamaliy~ap_1;noun <ijolA'_1;noun fiy_1;prep mAliyziyA_1;noun_prop 
+743#EalaY_1;prep mAy_1;noun_prop sbys ,_0;punc fatAp_1;noun saEaY-a_1;verb Sadiyq_1;noun walad_1;noun laEuwb_1;noun 
+744#{ixotibAr_2;noun muxad~ir_1;noun manoE_1;noun H.I.V. Eaduw~_1;noun tawaq~af_1;verb EalaY_1;prep salAmap_1;noun 
+745#Hadiyqap_1;noun HayawAn_1;noun dub~_1;noun quTobiy~_1;adj >ano_1;conj_sub kAn-u_1;verb qanAp_1;noun ji*or_1;noun 
+746#>uwrub~A_1;noun_prop >axa*-u_1;verb kabiyr_1;adj mulokiy~_1;adj ka>os_1;noun raSAS_1;noun 
+747#<isorA}iyl_1;noun_prop tavobiyt_1;noun kAmirA_1;noun EaroD_1;noun laqoTap_1;noun magoribiy~_2;adj Hay~_2;adj 
+748#"_0;punc >aDA'_1;verb $amoE_1;noun >axiyr_1;adj >amos_1;noun "_0;punc 
+749#{i$otaraY_1;verb gwgl ywtwb mabolag_1;noun 1.65_0;digit miloyAr_1;noun_num duwlAr_1;noun >amoriykiy~_1;adj 
+750#sab~_1;noun raqom_1;noun wAHid_1;noun_num minaS~ap_1;noun suwniy_1;noun_prop fiy_1;prep yAbAn_1;noun_prop 
+751#<inokilotirA_1;noun_prop $amil-a_1;verb jAylz fiy_1;prep miroHAD_1;noun 
+752#biykohAm_1;noun_prop ' lano_1;part_neg laEib-a_1;verb mar~ap_1;noun >uxoraY_1;adj li_1;prep riyAl_2;noun_prop ' 
+753#vamAniy_1;noun_num sanap_1;noun qAtil_2;noun dAmylwlA 
+754#,_0;punc bysy ,_0;punc EAlam_1;noun ,_0;punc muHar~ar_1;adj ,_0;punc *aboH_1;noun ,_0;punc <ilaY_1;prep ,_0;punc kAliyfuwroniyA_1;noun_prop ._0;punc ,_0;punc haw~am_1;verb 
+755#yad_1;noun EalaY_1;prep ' yawom_1;noun qiyAmap_1;noun EalaY_1;prep madAr_1;noun sAEap_1;noun ' taHar~uk_1;noun <ilaY_1;prep >amAm_1;noun 
+756#zAk brAf qAl-u_1;verb >an~a_1;conj_sub ladaY_1;noun "_0;punc {ikoti}Ab_1;noun xafiyf_1;adj "_0;punc 
+757#taHoqiyq_1;noun fiy_1;prep mawoqiE_1;noun <ibAHiy~_1;adj <ibAHiy~_1;adj Darab_1;verb 77_0;digit dawolap_1;noun wilAyap_1;noun mut~aHid_1;adj >amoriykiy~_1;adj yawom_1;noun 
+758#daEA-u_1;verb lawoHap_1;noun Eilom_2;noun AlAHtrAr EAlamiy~_1;adj lA_3;verb_pseudo labos_1;noun fiy_1;prep 
+759#xabar_1;noun AlbAndA Tifol_1;noun !_0;punc Tifol_1;noun AlbAndA !_0;punc Tifol_1;noun AlbAndA !_0;punc 
+760#HaSal-u_1;verb EalaY_1;prep {isotiEodAd_1;noun HuSuwl_1;noun EalaY_1;prep riboH_1;noun 
+761#tafaw~aq_1;verb >alomAniyA_1;noun_prop EalaY_1;prep hijorap_1;noun dimAg_1;noun 
+762#{ijotamaE_1;verb qA}id_1;noun <iyrAn_1;noun_prop wnykArAgwA 
+763#funoduq_1;noun sir~iy~_1;adj fiy_1;prep riyf_1;noun >ayorlanodiy~_1;adj 
+764#,_0;punc bAriE_1;adj ,_0;punc xamor_1;noun ,_0;punc <ilaY_1;prep dAxil_1;noun ,_0;punc briytiy$_1;noun_prop kuwluwmobiyA_1;noun_prop 
+765#raH~ab_1;verb ra}iys_1;noun fiyliyb~iyniy~_1;adj muwAfaqap_1;noun majolis_1;noun $ayox_1;noun EalaY_1;prep ma$oruwE_1;noun qAnuwn_1;noun mukAfaHap_1;noun <irohAb_1;noun 
+766#taHaT~um_1;noun TA}irap_1;noun Sagiyr_1;adj EalaY_1;prep <iqolAE_1;noun ,_0;punc min_1;prep >asofar_1;verb Ean_1;prep maqotal_1;noun 2_0;digit 
+767#>akobar_2;adj_comp >akovar_2;adj_comp juro>ap_1;noun fa>or_1;noun Al~a*iy_1;pron_rel >aSAb_1;verb mamolakap_1;noun mut~aHid_1;adj 
+768#safar_1;noun +_0;punc tarofiyh_1;noun :_0;punc jaziyrap_1;noun buqoEap_1;noun sAxin_1;adj tAliy_1;adj :_0;punc sAnt_1;noun_prop lwsyA 
+769#,_0;punc mAyuwrokA_1;noun_prop ,_0;punc {ihotaz~_1;verb ,_0;punc qA}id_1;noun ,_0;punc fAl-i_1;verb 
+770#tam~-i_1;verb taboxiyr_1;noun <iyrAn_1;noun_prop fiy_1;prep majAl_1;noun taxoSiyb_1;noun yuwrAniyuwm_1;noun 
+771#SiH~ap_1;noun $axoSiy~_1;adj :_0;punc murAhiq_1;noun ,_0;punc say~Arap_1;noun hiya_1;pron minoTaqap_1;noun xaTar_1;noun 
+772#Tayor_1;noun murAqib_1;noun qaTiyE_1;noun ru&oyap_1;noun buwm_1;noun nAdir_1;adj 
+773#tam~-i_1;verb fiqodAn_1;noun Eayon_2;noun_prop EalaY_1;prep kawon_1;noun dA}irap_1;noun kahorabA}iy~_1;adj qaSiyr_1;adj EalaY_1;prep hAbil_1;noun_prop 
+774#$ab~_1;noun jid~_1;noun h`*A_1;pron_dem :_0;punc wAjah_1;verb saraTAn_1;noun taHota_1;noun 40_0;digit 
+775#{isom_1;noun majomuwEap_1;noun ywnylyfr ra}iys_1;noun jadiyd_1;adj 
+776#waziyr_1;noun {inotaqad_1;verb $arikap_1;noun TayarAn_1;noun EalaY_1;prep karobuwn_1;noun 
+777#tafA&ul_1;noun nAdir_1;adj maE_1;noun wuSuwl_1;noun muHAdavap_1;noun kuwriyA_1;noun_prop $amAliy~_1;adj <ilaY_1;prep mufotaraq_1;noun Tariyq_1;noun 
+778#,_0;punc <inosAn_1;noun ,_0;punc ra>os_1;noun ra>os_1;noun ,_0;punc <ilaY_1;prep dAxil_1;noun ,_0;punc januwbiy~_1;adj >aHad_1;noun_num {ibon_1;noun januwb_1;noun ,_0;punc vAylAnd 
+779#Siyn_1;noun_prop "_0;punc siynAriyw_1;noun kAbuws_1;noun "_0;punc 
+780#musAbaqap_1;noun gawoS_1;noun sanawiy~_1;adj fiy_1;prep kuwriyA_1;noun_prop januwbiy~_1;adj >avobat_1;verb taHad~iy_1;noun bArid_1;adj 
+781#qAl-u_1;verb bliyr_1;noun_prop <in~a_1;verb_pseudo >asif-a_1;verb ta>oxiyr_1;noun fiy_1;prep taHoqiyq_1;noun junodiy~_1;noun briyTAniy~_1;adj 
+782#quw~ap_1;noun EirAqiy~_1;adj {iHotajaz_1;verb maso&uwl_1;noun {i$otabah_1;verb fiy_1;prep mu&Amarap_1;noun $iyEiy~_1;adj 
+783#jA}izap_1;noun kawomap_1;noun baHov_2;noun muDAd~_2;adj duhon_1;noun 
+784#Eubuwr_1;noun <iSobaE_1;noun kuwriyA_1;noun_prop $imAliy~_1;adj 
+785#lA_1;part_neg wajad-i_1;verb niy~ap_1;noun Harob_1;noun maE_1;noun <iyrAn_1;noun_prop ,_0;punc mA_4;conj_sub qAl-u_1;verb wilAyap_1;noun mut~aHid_1;adj 
+786#mA_1;pron_rel wAjah_1;verb nywswm fiy_1;prep Euqob_1;noun faDiyHap_1;noun 
+787#mAgy jylnhAl jaliydiy~_1;adj jlwb :_0;punc >um~_1;noun 
+788#maE_1;noun {irotifAE_1;noun taDax~um_1;noun ,_0;punc gariq-a_1;verb {iqotiSAd_1;noun ziymobAbowiy_1;noun_prop 
+789#taEah~ud_1;noun :_0;punc taEar~aD_1;verb suw'_1;noun muEAmalap_1;noun fiy_1;prep furAt_2;noun hyzyng 
+790#xabiyr_1;noun :_0;punc xawof_1;noun muraj~iH_1;noun tkbyl Sabiy~_1;noun 
+791#mA_1;pron_rel warA'_1;noun taHaT~um_1;noun mirowaHiy~_1;adj fiy_1;prep EirAq_1;noun_prop 
+792#mu$otabah_1;adj bi_1;prep <irohAbiy~_1;adj mu$otabah_1;adj bi_1;prep qAl-u_1;verb briyTAniyA_1;noun_prop hiya_1;pron "_0;punc dawolap_1;noun $uroTap_1;noun "_0;punc 
+793#bliyr_1;noun_prop {iEota*ar_1;verb Ean_1;prep taHoqiyq_1;noun Sadiyq_1;noun nAr_1;noun 
+794#diyb_1;noun_prop ' jaEol_1;noun lytfynynkw fiylom_1;noun ' 
+795#limA*A_1;adv_interrog tabiE-a_1;verb gAz_1;noun nafoT_1;noun l`kino_1;conj layosa_1;verb >asofal_1;adj_comp 
+796#' ragobap_1;noun $adiyd_1;adj ' lA_1;part_neg zAl-a_1;verb hunAka_1;adv ,_0;punc syz |r_1;noun 
+797#>aSodar_1;verb ma$oruwE_1;noun qAnuwn_1;noun mu$ar~iE_1;noun mudAn_1;noun maEA$_1;noun taqAEudiy~_1;adj 
+798#dub~_1;noun mu$Ahadap_1;noun mA_4;conj_sub zal~ap_1;noun raSAS_1;noun baEiyd_1;adj 
+799#fiy_1;prep fikorap_1;noun <idomAn_1;noun ,_0;punc <iSAbap_1;noun dimAg_1;noun tawaq~uf_1;noun tadoxiyn_1;noun 
+800#fiy_1;prep {ixotibAr_1;noun SArim_1;adj ,_0;punc EilAj_1;noun kalAm_1;noun Eamil-a_1;verb EalaY_1;prep {iDoTirAb_1;noun halaE_1;noun 
+801#ruz~_1;noun :_0;punc wilAyap_1;noun mut~aHid_1;adj lano_1;part_neg saHob_1;noun mukaw~in_1;noun EalaY_1;prep EirAq_1;noun_prop 
+802#fiy_1;prep Tariyq_1;noun <ilaY_1;prep {isotiqolAl_1;noun kuwsuwfuw_1;noun_prop ,_0;punc taHo*iyr_1;noun :_0;punc baTiy'_1;adj 
+803#DAbiTap_1;noun DAbiT_2;noun Al~a*iy_1;pron_rel rafaD-u_1;verb *ahAb_1;noun <ilaY_1;prep EirAq_1;noun_prop 
+804#mutamar~id_1;noun {inoDimAm_1;noun <ilaY_1;prep barolamAn_1;noun AlnybAly 
+805#>ayomiy_1;noun_prop Ha*~ar_1;verb EalaY_1;prep riboH_1;noun ,_0;punc *ahab-a_1;verb mudar~ib_1;noun 
+806#{inohiyAr_1;noun mitoruw_1;noun nafaq_1;noun {i$otaEal_1;verb EalaY_1;prep kAmirA_1;noun 
+807#naton_1;noun l`kino_1;conj SaHiyH_1;adj :_0;punc raSad-u_1;verb Eiroq_1;noun rajul_1;noun Hub~_1;noun 
+808#bwlytyks -_0;punc >awos_2;noun_prop :_0;punc <irojA'_1;noun DAbiT_1;noun Al~a*iy_1;pron_rel nad~ad_1;verb bi_1;prep "_0;punc Harob_1;noun gayor_1;noun >axolAqiy~_1;adj "_0;punc 
+809#Say~Ad_1;noun ,_0;punc sAq_1;noun ,_0;punc EAlam_1;noun ,_0;punc >adAp_1;noun taEoriyf_1;noun <inojliyziy~_1;adj gayor_1;noun maEoruwf_1;adj ,_0;punc 
+810#qado_1;part_verb >ad~aY_1;verb tasar~ub_1;noun waquwd_1;noun <ilaY_1;prep nafov_1;noun mafoquwd_1;noun 
+811#fayaDAn_1;noun fiy_1;prep siriylAnokA_1;noun_prop tahojiyr_1;noun 60,000_0;digit 
+812#jwstyn tymbrlyk ,_0;punc kamiruwn_1;noun_prop dyAz >aEolan_1;verb {inoqisAm_1;noun 
+813#<iyrAn_1;noun_prop Darob_1;noun maSolaHap_1;noun >amoriykiy~_1;adj <i*A_1;conj_sub hAjam_1;verb 
+814#qAl-u_1;verb <isorA}iyl_1;noun_prop >an~a_1;conj_sub >amal-a_1;verb fiy_1;prep HifAZ_1;noun EalaY_1;prep huduw'_1;noun lubonAn_1;noun_prop 
+815#syskw taqADaY_1;verb <ibol_1;noun EalaY_1;prep {isom_1;noun fuwn_1;noun_prop 
+816#maqotal_1;noun filasoTiyniy~_1;noun qurob_1;noun min_1;prep suwr_1;noun 
+817#wafAp_1;noun ra}iys_1;noun tanofiy*iy~_1;adj $arikap_1;noun <yrvlynk fiy_1;prep san~_1;noun 49_0;digit EAm_1;noun 
+818#najom_1;noun mAt-u_1;verb ,_0;punc walad-i_1;verb Ead~A'_1;noun >usorap_1;noun 
+819#kArotir_1;noun_prop kAn-u_1;verb kArivap_1;noun ,_0;punc qAl-u_1;verb wirod_1;noun 
+820#suwbar_2;noun_prop buwl_1;noun_prop mfb mAnyng >aSar~_1;verb >an~a_1;conj_sub wAHid_1;noun_num min_1;prep rajul_1;noun 
+821#SiH~ap_1;noun $axoSiy~_1;adj :_0;punc >aham~iy~ap_1;noun maEorifap_1;noun mA_1;pron_rel taHad~av_1;verb Ean_1;prep Tabiyb_1;noun 
+822#Hav~-u_1;verb byryts <isorA}iyliy~_1;adj EalaY_1;prep waqof_1;noun binA'_1;noun qudos_1;noun_prop xilAfiy~_1;adj 
+823#biytir_1;noun_prop jAkosuwn_1;noun_prop lano_1;part_neg Eamil-a_1;verb >abad_1;noun nisobap_1;noun li-_1;prep mar~ap_1;noun >uxoraY_1;adj 
+824#wilAyap_1;noun mut~aHid_1;adj baqiy-a_1;verb xiyAr_1;noun <iyrAn_1;noun_prop mafotuwH_1;adj 
+825#{irotafaE_1;verb sahom_1;noun >uwrub~iy~_1;adj <ilaY_1;prep musotawaY_1;noun qiyAsiy~_1;adj jadiyd_1;adj 
+826#nisA'_1;noun ,_0;punc lA_3;verb_pseudo $ayo'_1;noun mivol_1;noun rA}iHap_1;noun Eiroq_1;noun rajul_1;noun 
+827#naZar_1;noun warA'_1;noun fuwn_1;noun_prop 
+828#mu$otabah_1;adj bi_1;prep xaTof_1;noun mu$otabah_1;adj bi_1;prep :_0;punc <irohAbiy~_1;noun fiy_1;prep gArap_1;noun $uroTap_1;noun 
+829#baEiyd_1;noun ,_0;punc sawofa_1;part_fut xAsir_1;noun suwbar_2;noun_prop buwl_1;noun_prop kAn-u_1;verb baTal_1;noun 
+830#maro>ap_1;noun ,_0;punc mawot_1;noun ,_0;punc xalofiy~_1;adj ,_0;punc >aDofaY_1;verb EalaY_1;prep qumA$_1;noun tamaw~uj_1;noun Sqy ,_0;punc bynj 
+831#mAnkwsw >a$oEal_1;verb {iHotifAl_1;noun >amoriykiy~_1;adj 
+832#Hav~-u_1;verb >asoyAn_1;noun EalaY_1;prep qarAr_1;noun kuwriyA_1;noun_prop $imAliy~_1;adj 
+833#takoliyf_2;noun riEAyap_1;noun muta>ax~ir_1;adj gajariy~_1;noun hiya_1;pron nuqoTap_1;noun 
+834#>aEolan_1;verb Ean_1;prep maraD_1;noun fiy_1;prep HAlap_1;noun {igotiSAb_1;noun muEal~im_1;noun TAlib_1;noun 
+835#' duwd_1;noun mugAmarap_1;noun ' faraH_2;noun_prop wrdzmyv li_1;prep 
+836#Hub~_1;noun >ay~iliy~_1;adj {inoqisAm_1;noun 
+837#>ay~_2;pron_interrog wud~_1;noun jay~id_1;adj laEob_1;noun fiydoyuw_1;noun 
+838#murAjaEap_1;noun :_0;punc ZAhiriy~_1;adj ' >amoriykiy~_1;noun >ydwl ' Darab_1;verb mulAHaZap_2;noun SaHiyH_1;adj 
+839#maEorakap_1;noun yuw_1;noun_prop nafos_1;noun 
+840#>a$Ar_1;verb muHAmiy_1;noun <iSobaE_1;noun fiy_1;prep qitAl_1;noun bayona_1;noun ray~An_2;noun_prop >uwniyl_1;noun_prop {ibon_1;noun 
+841#juwn_2;noun_prop gry$Am taEoyiyn_1;noun dirAmA_1;noun maHokamap_1;noun 
+842#biyl_1;noun_prop gyts kriyg_1;noun_prop mwndy :_0;punc {isotA'_1;verb huwa_1;pron >amon_1;noun ,_0;punc muwaZ~af_1;noun layosa_1;verb *`lika_1;pron_dem 
+843#EirAqiy~_1;noun xaTa>_1;noun ta>ax~ar_1;verb xuT~ap_1;noun wilAyap_1;noun mut~aHid_1;adj fiy_1;prep hujuwm_1;noun 
+844#ka$~Af_2;noun kawomap_1;noun lawom_1;noun EalaY_1;prep <iTolAq_1;noun nAr_1;noun 
+845#Siyn_1;noun_prop Hav~-u_1;verb >um~ap_1;noun mut~aHid_1;adj EalaY_1;prep Eamal_1;noun kuwriyA_1;noun_prop $imAliy~_1;adj 
+846#skwrbywn EalaY_1;prep maton_1;noun TA}irap_1;noun ,_0;punc huwa_1;pron >um~_1;noun min_1;prep >alam_1;noun 
+847#Eiroq_1;noun *akar_1;noun Eaz~az_1;verb musotawaY_1;noun huwromuwn_1;noun maro>ap_1;noun 
+848#mbyky fiy_1;prep ziyArap_1;noun kabiyr_1;adj min_1;prep Siyniy~_1;noun 
+849#yamiyn_1;noun faranosiy~_1;adj ra$~aH_1;verb sArkwzy 
+850#{i$otibAk_1;noun <isorA}iyliy~_1;adj ,_0;punc lubonAniy~_1;adj EalaY_1;prep Had~_2;noun 
+851#kuwriyA_1;noun_prop $amAliy~_1;adj daEA-u_1;verb tajoribap_1;noun nawawiy~_1;adj 
+852#bada>-a_1;verb muHAdavap_1;noun Hawol_1;noun HifoZap_1;noun salAm_1;noun fiy_1;prep SuwmAl_1;noun_prop 
+853#laEob_1;noun Eamal_1;noun taHosiyn_1;noun baSar_1;noun 
+854#juzo'_1;noun Sagiyr_1;adj min_1;prep dimAg_1;noun ,_0;punc >avar_1;noun Eamiyq_1;adj 
+855#qaSof_1;noun jayo$_1;noun difAE_1;noun <isorA}iyliy~_1;adj mawoqiE_1;noun jayo$_1;noun lubonAniy~_1;adj Eabor_1;noun Had~_2;noun $amAliy~_1;adj 
+856#tAyolanod_1;noun_prop :_0;punc mafoquwd_1;noun 25_0;digit EAm_1;noun baEod_1;noun >axo*_1;noun HAfilap_1;noun xATi}_1;adj 
+857#rAqiS_1;noun Dafor_1;noun bAliyh_1;noun $arar_1;noun munAhiD_1;adj fA$iy~_1;noun 
+858#Taforap_1;noun <inotironit_1;noun_prop fiy_1;prep Siyn_1;noun_prop maboniy~_1;adj EalaY_1;prep mutoEap_1;noun {ifotirADiy~_1;adj 
+859#murAjaEap_1;noun :_0;punc PS3 vaman_1;noun l`kino_1;conj muviyr_1;adj <iEojAb_1;noun 
+860#>amor_2;noun |lap_1;noun dafoE_1;noun >asoyA_1;noun_prop <ilaY_1;prep >aEolaY_2;adj_comp 
+861#' lwst ' fuwkos_1;noun_prop :_0;punc ' >anA_1;pron ka*~Ab_1;noun gi$~_1;noun ' 
+862#ruwsiyA_1;noun_prop taEoziyz_1;noun EaDalap_1;noun Easokariy~_1;adj 
+863#fiy_1;prep muHAkamap_1;noun liybiy~_1;noun ,_0;punc rwsrt min_1;prep >ano_1;conj_sub biy_1;abbrev siy_1;abbrev >aEoTaY_1;verb HaSal-u_1;verb 
+864#kuwriyA_1;noun_prop $amAliy~_1;adj EalaY_1;prep {isotiEodAd_1;noun munAqa$ap_1;noun xaTowap_1;noun >aw~al_2;adj_num qarAr_1;noun nawawiy~_1;adj 
+865#DaHiy~ap_1;noun :_0;punc {i$otaraY_1;verb musal~aH_1;adj $arib-a_1;verb baEod_1;noun <iTolAq_1;noun nAr_1;noun 
+866#fyryr munotaSir_1;adj fiy_1;prep mubArazap_1;noun <isobAniy~_2;adj 
+867#EAmil_2;noun briyTAniy~_1;adj fiy_1;prep HAlap_1;noun ta>ah~ub_1;noun risAlap_1;noun qunobulap_1;noun 
+868#halo_1;part_interrog qatal-u_1;verb nAs_1;noun Ean_1;prep Tariyq_1;noun xaTa>_1;noun HayAp_1;noun EalaY_1;prep saToH_1;noun mir~iyx_1;noun_prop ?_0;punc 
+869#qado_1;part_verb kAn-u_1;verb laqAH_1;noun jadiyd_1;adj saraTAn_1;noun Eunoq_1;noun raHim_1;noun mufiyd_1;adj fiy_1;prep rajul_1;noun >ayoDAF_1;adv 
+870#baHov_1;noun Ean_1;prep DaHiy~ap_1;noun {inohiyAr_1;noun mitoruw_1;noun nafaq_1;noun 
+871#tasab~ab_1;verb xaTa>_1;noun bu$oraY_1;noun_prop hylyws taHaT~um_1;noun TA}irap_1;noun 
+872#wilAyap_1;noun mut~aHid_1;adj Hav~-u_1;verb Haliyf_1;noun nAtuw_1;noun_prop EalaY_1;prep maziyd_1;noun min_1;prep quw~ap_1;noun haziymap_1;noun TAlibAn_1;noun_prop 
+873#daE~am_1;verb mAyokruwsuwft_1;noun_prop miEoyAr_1;noun muSAdaqap_1;noun >wbynyd 
+874#lA_3;verb_pseudo mu$otariy_1;noun fiy_1;prep >ufuq_1;noun li_1;prep nAbstr 
+875#fatorap_1;noun wajiyz_1;adj :_0;punc jihAz_1;noun <ybwd muHam~al_1;adj musobaq_1;adj ,_0;punc fiylom_1;noun wuwl_1;noun_prop mArot_1;noun_prop ,_0;punc maxozan_1;noun <ibol_1;noun 
+876#qAl-u_1;verb Siyn_1;noun_prop >an~a_1;conj_sub dawolap_1;noun ganiy~_1;adj wajab-i_1;verb >ano_1;conj_sub kAn-u_1;verb rA}id_1;noun fiy_1;prep AlAHtrAr EAlamiy~_1;adj 
+877#kuwriyA_1;noun_prop $amAliy~_1;adj qado_1;part_verb bada>-a_1;verb fiy_1;prep tafokiyk_1;noun wak~as_1;verb 
+878#tabiE-a_1;verb >asofal_1;adj_comp muraH~ib_1;noun tikonuwluwjiyA_1;noun jariymap_1;noun 
+879#bArAk_1;noun_prop >wbAmA >aEolan_1;verb rasomiy~_1;adj Ean_1;prep muHAwalap_1;noun ra}iys_1;noun 
+880#{ixotiTAf_1;noun xATif_1;adj {ivon_1;noun_num fiy_1;prep nayojiyriyA_1;noun_prop 
+881#<inoduwniysiyA_1;noun_prop qado_1;part_verb bAE-i_1;verb ,_0;punc lA_1;part_neg >aEoTaY_1;verb ,_0;punc fayoruws_1;noun <inofluwanozA_1;noun Tayor_1;noun EAlim_1;noun 
+882#hujuwm_1;noun sAd~_1;adj fiydoyuw_1;noun "_0;punc wud~iy~_1;adj nAr_1;noun "_0;punc >aromalap_1;noun 
+883#>uwrub~A_1;noun_prop {iHotafaZ_1;verb ka>os_1;noun maE_1;noun fawoz_1;noun kabiyr_1;adj 
+884#muloHaq_1;noun mutaTaw~ir_1;adj mu$ag~al_1;noun muwsiyqaY_1;noun raqamiy~_1;adj 
+885#EASifap_1;noun valojiy~_1;adj nazal-i_1;verb fiy_1;prep wasaT_1;noun wilAyap_1;noun mut~aHid_1;adj ._0;punc 
+886#valoj_1;noun jalab-iu_1;verb bu&os_1;noun safar_1;noun <ilaY_1;prep <inojilotirA_1;noun_prop 
+887#quw~ap_1;noun fayaDAn_1;noun <inoduwniysiy~_1;adj 340,000_0;digit min_1;prep manozil_1;noun 
+888#waziyr_1;noun SiH~ap_1;noun EirAqiy~_1;adj DabaT-ui_1;verb fiy_1;prep gArap_1;noun 
+889#EASifap_1;noun valojiy~_1;adj jalab-iu_1;verb fawoDaY_1;noun fiy_1;prep wilAyap_1;noun mut~aHid_1;adj ._0;punc 
+890#naton_1;noun zuhorap_2;noun_prop sir~_1;noun Hal~_1;noun 
+891#kuwnojris_1;noun_prop tahad~ad_1;verb Haliyf_1;noun wilAyap_1;noun mut~aHid_1;adj Eadam_1;noun wujuwd_1;noun daEom_1;noun fiy_1;prep >afogAnisotAn_1;noun_prop 
+892#rwdyk tagal~ab_1;verb EalaY_1;prep dir~ap_1;noun fiy_1;prep nihA}iy~_2;noun 
+893#{ikota$af_1;verb EaSor_1;noun mA_1;pron_rel qabol_1;noun tAriyx_1;noun ruwmiy~_1;noun juwliyiyt_1;noun_prop 
+894#duwnAld_1;noun_prop wjwydws sahom_1;noun suwniy_1;noun_prop raSAS_1;noun 
+895#wilAyap_1;noun mut~aHid_1;adj EirAqiy~_1;noun ta$Ajar_1;verb Hawol_1;noun xuT~ap_1;noun Harob_1;noun 
+896#baHov_1;noun Ean_1;prep baHor_1;noun fiy_1;prep EidAd_1;noun mafoquwd_1;noun EAlam_1;noun mAyokruwsuwft_1;noun_prop 
+897#<iyrAn_1;noun_prop Darab_1;verb maSolaHap_1;noun >amoriykiy~_1;adj <i*A_1;conj_sub taEar~aD_1;verb hujuwm_1;noun 
+898#bliyr_1;noun_prop :_0;punc maEorakap_1;noun <irohAb_1;noun kAn-u_1;verb Tawiyl_1;adj 
+899#dub~_1;noun $ibol_1;noun EAd-u_1;verb <ilaY_1;prep bar~iy~ap_1;noun 
+900#kArfwr numuw~_1;noun mabiyE_1;noun qaSiyr_1;adj 
+901#mutaHAlif_1;adj maE_1;noun diymuqrATiy~_1;noun ,_0;punc liybiromAn_1;noun_prop ytnAgm suhuwlap_1;noun maE_1;noun jumohuwriy~_1;noun 
+902#fiy_1;prep ruwk_1;noun ,_0;punc mAt-u_1;verb Sanawobar_1;noun dub~_1;noun $aEar-u_1;verb bi_1;prep 
+903#<iyrAn_1;noun_prop Darob_1;noun maSolaHap_1;noun >amoriykiy~_1;adj <i*A_1;conj_sub hAjam_1;verb 
+904#gaT~aY_1;verb Halam_1;noun ,_0;punc sir~_1;noun najom_1;noun >uxoraY_1;adj 
+905#<ibol_1;noun :_0;punc >ay~_2;pron_interrog tywnz nisobap_1;noun li-_1;prep <i*A_1;conj_sub kAn-u_1;verb ladaY_1;noun {isotA'_1;verb !_0;punc 
+906#mudax~in_1;noun fiy_1;prep bar~iy~ap_1;noun >aboyaD_1;adj qas~am_1;verb <iyslAnodA_1;noun_prop 
+907#Al~a*iy_1;pron_rel sawofa_1;part_fut kal~af_1;verb yA_1;part_voc 
+908#$anaq_1;noun miToraq_1;noun fiy_1;prep EirAq_1;noun_prop suroEap_1;noun TA}ifiy~_1;adj 
+909#Eiroq_1;noun *akar_1;noun >avAr_1;verb huwromuwn_1;noun >unovaY_1;noun 
+910#7_0;digit majolis_1;noun $ayox_1;noun fiy_1;prep majolis_1;noun $ayox_1;noun <ijobAr_1;noun niqA$_1;noun Hawol_1;noun quw~ap_1;noun fiy_1;prep EirAq_1;noun_prop 
+911#>anohaY_1;verb banojlAdiy$_1;noun_prop HaZor_1;noun tajowAl_1;noun wasaT_1;noun {iDoTirAb_1;noun 
+912#nizAE_1;noun <iyTAliyA_1;noun_prop maE_1;noun wilAyap_1;noun mut~aHid_1;adj <iTolAq_1;noun nAr_1;noun EalaY_1;prep EirAq_1;noun_prop 
+913#hunA_1;adv >ataY-i_1;verb glwb !_0;punc 
+914#valoj_1;noun sab~ab_1;verb fawoDaY_1;noun naqol_1;noun fiy_1;prep briyTAniyA_1;noun_prop 
+915#valoj_1;noun sab~ab_1;verb <igolAq_1;noun maTAr_1;noun fiy_1;prep briyTAniyA_1;noun_prop 
+916#ra>oy_1;noun vAniy_1;adj_num :_0;punc fatAp_1;noun >awo_1;conj Sabiy~_1;noun ?_0;punc mA_4;conj_sub taqad~am_1;verb tikonuwluwjiyA_1;noun xuSuwbap_1;noun ,_0;punc *`lika_1;pron_dem munAqa$ap_1;noun >axolAqiy~_1;adj 
+917#tasab~ab_1;verb valoj_1;noun kaviyf_1;adj fawoDaY_1;noun safar_1;noun >agolaq_1;verb madorasap_1;noun 
+918#<irov_1;noun bArbArw :_0;punc <inoqA*_1;noun xayol_1;noun >uxoraY_1;adj 
+919#,_0;punc <ilaY_1;prep dAxil_1;noun ,_0;punc sAwv_1;noun_prop كارولينا's, lwkwntry 
+920#qatal-u_1;verb Ea$or_1;noun_num fiy_1;prep tafojiyr_1;noun bagodAd_1;noun_prop 
+921#EASifap_1;noun valojiy~_1;adj qatal-u_1;verb 21_0;digit Eabor_1;noun >um~ap_1;noun 
+922#diy_1;noun_prop fylyrz tawal~aY_1;verb qiyAdap_1;noun dAkAr_1;noun_prop 
+923#>aSobaH_1;verb fiyatonAm_1;noun_prop EuDow_1;noun Al_1;part_det 150_0;digit munaZ~amap_1;noun tijArap_1;noun EAlamiy~_1;adj 
+924#januwb_1;noun >aforiyqiyA_1;noun_prop miyzap_1;noun HiS~ap_1;noun vulAviy~_2;adj 
+925#miroSad_1;noun :_0;punc sam~_1;noun walad-i_1;verb sam~_1;noun 
+926#Eamal_1;noun mukav~af_1;adj 
+927#limA*A_1;adv_interrog rA}iHap_1;noun <iboT_1;noun rajul_1;noun huwa_1;pron dawor_1;noun EalaY_1;prep 
+928#nwkyA 5300_0;digit <ksbrs muwsiyqaY_1;noun 
+929#diyl_1;noun_prop xafoD_1;noun mukAfa>ap_1;noun ,_0;punc taqoliym_1;noun <idArap_1;noun 
+930#qAl-u_1;verb bAHiv_1;noun <ino_1;conj_sub {inoxifAD_1;noun vAniy_1;adj_num fiy_1;prep wafAp_1;noun saraTAn_1;noun qado_1;part_verb >a$Ar_1;verb <ilaY_1;prep {it~ijAh_1;noun 
+931#>aZohar_1;verb Eab~_1;noun tilofizyuwn_1;noun tafAEuliy~ap_1;noun 
+932#Sabiy~_1;noun mafoquwd_1;noun muno*u_1;prep EAm_1;noun 2002_0;digit wajad-i_1;verb EalaY_1;prep qayod_1;noun HayAp_1;noun 
+933#wilAyap_1;noun mut~aHid_1;adj ,_0;punc waqaE-a_1;verb kuwriyA_1;noun_prop $amAliy~_1;adj mu*ak~irap_1;noun nawawiy~_1;adj 
+934#ruwsiyA_1;noun_prop takoriym_1;noun muSam~im_1;adj sbwtnyk 
+935#fiy_1;prep EASimap_1;noun kiyniy~_1;adj ,_0;punc $uEuwr_1;noun >an~a_1;conj_sub xaTar_1;noun >aqowaY_2;adj min_1;prep >ay~_1;noun_quant waqot_1;noun maDaY-i_1;verb 
+936#biyl_1;noun_prop ,_0;punc *`lika_1;pron_dem faDol_1;noun *Akir_1;noun rasA_1;verb ._0;punc ._0;punc ._0;punc DaHik-a_1;verb 
+937#Tay~Ar_1;noun nAr_1;noun wud~iy~_1;adj "_0;punc min_1;prep *A_2;noun xiborap_1;noun "_0;punc 
+938#mAy_1;noun_prop sbys raH~ab_1;verb Sadiyq_1;noun faranosiy~_1;noun 
+939#xaT~_2;noun jaw~iy~_1;adj :_0;punc maTAr_1;noun mamolakap_1;noun mut~aHid_1;adj mudar~aj_2;noun gayor_1;noun |min_1;adj 
+940#mabolag_1;noun Al~a*iy_1;pron_rel wajab-i_1;verb >ano_1;conj_sub dafaE-a_1;verb taxowiyf_1;noun qunobulap_1;noun 
+941#fiy_1;prep miSor_1;noun_prop ,_0;punc taHad~av_1;verb rAyos_1;noun_prop huduw'_1;noun 
+942#>usobuwEiy~_1;adj nylsn <iyfuwn_1;noun_prop diy_1;noun_prop kAroluw_1;noun_prop ,_0;punc najomap_1;noun "_0;punc mwnstrs "_0;punc ,_0;punc may~it_1;noun 
+943#Sawot_1;noun majolis_1;noun $ayox_1;noun <ilogA'_1;noun maEA$_1;noun taqAEudiy~_1;adj 
+944#wafAp_1;noun ra}iys_1;noun tanofiy*iy~_1;adj $arikap_1;noun <yrvlynk fiy_1;prep san~_1;noun 49_0;digit EAm_1;noun 
+945#baronAmaj_1;noun EimolAq_2;adj sAb-i_1;verb myss hadaf_1;noun 
+946#EalAmap_1;noun Hayawiy~_1;adj :_0;punc qudorap_1;noun Eaqoliy~_1;adj :_0;punc HamoD_1;noun fuwliyk_1;noun qado_1;part_verb taHosiyn_1;noun mahArap_1;noun tafokiyr_1;noun 
+947#diy_1;noun_prop fylyrs {imotad~_1;verb Eumuwm_1;noun raSAS_1;noun 
+948#EA}ilap_1;noun {iHotafal_1;verb Eawodap_1;noun {ibon_1;noun 
+949#Siyn_1;noun_prop {iHotajaz_1;verb 2_0;digit baEod_1;noun Euvuwr_1;noun EalaY_1;prep juzo'_1;noun jisom_1;noun fiy_1;prep bariyd_1;noun 
+950#kuwriyA_1;noun_prop $amAliy~_1;adj EalaY_1;prep {isotiEodAd_1;noun munAqa$ap_1;noun nazoE_1;noun silAH_1;noun nawawiy~_1;adj 
+951#nisA'_1;noun ,_0;punc lA_3;verb_pseudo $ayo'_1;noun mivol_1;noun rA}iHap_1;noun Eiroq_1;noun rajul_1;noun 
+952#nAdAl >arAd_1;verb tAj_2;noun >usoturAliy~_1;adj mafotuwH_1;adj 
+953#majal~ap_1;noun bikiyn_1;noun_prop :_0;punc binA'_1;noun >uwlimobiy~_1;adj ka$af-i_1;verb qadiym_1;adj kanoz_1;noun 
+954#ra}iys_1;noun Siyniy~_1;adj waSal-i_1;verb <ilaY_1;prep muwzamobiyq_1;noun_prop ,_0;punc jawolap_1;noun >aforiyqiy~_2;adj {inotahaY_1;verb taqoriyb_1;noun 
+955#rylwsyf "_0;punc mwkngbyrd "_0;punc mu&al~if_1;noun HaDar-u_1;verb maEoriD_1;noun 
+956#>asoyA_1;noun_prop qurob_1;noun min_1;prep {it~ifAq_1;noun EalaY_1;prep TAqap_1;noun >amon_1;noun 
+957#ta>ax~ar_1;verb qAnuwn_1;noun mukAfaHap_1;noun <irohAb_1;noun fiyliyb~iyniy~_1;adj Hat~aY_1;prep yuwniyuw_1;noun_prop 
+958#$ak~ak_1;verb mu$otabah_1;adj fiy_1;prep fiy_1;prep qAnuwn_1;noun mukAfaHap_1;noun <irohAb_1;noun 
+959#dirAsap_1;noun ka$af-i_1;verb Ean_1;prep jiyn_1;noun murotabiT_1;adj >alozohAyomir_1;noun_prop 
+960#AlbAndA $ibol_1;noun jaEal-a_1;verb li-_1;prep >aw~al_2;adj_num mar~ap_1;noun 
+961#hAriys_1;noun_prop hawol_1;noun waDaE_1;verb januwb_1;noun >aforiyqiyA_1;noun_prop EalaY_1;prep qim~ap_1;noun 
+962#fiqodAn_1;noun wazon_1;noun muxad~ir_1;noun tam~-i_1;verb bayoE_1;noun EalaY_1;prep EidAd_1;noun 
+963#>awoDaH_1;verb biykohAm_1;noun_prop sabab_1;noun taHar~uk_1;noun 
+964#dirAsap_1;noun xalaS-u_1;verb min_1;prep hawA'_1;noun $ujAE_1;adj >avAr_1;verb maxATir_1;noun maraD_1;noun qalob_1;noun ladaY_1;noun nisA'_1;noun >akobar_2;adj_comp sin~_1;noun 
+965#finizuwil~A_1;noun_prop ,_0;punc <iyrAn_1;noun_prop HArab_1;verb hayomanap_1;noun >amoriykiy~_1;adj 
+966#"_0;punc rab~_2;noun bayot_3;noun "_0;punc najomap_1;noun mArsyA ruws_1;noun_prop EalaY_1;prep rAHap_1;noun fiy_1;prep firA$_1;noun 
+967#blwq :_0;punc hunA_1;adv >ataY-i_1;verb glwb !_0;punc 
+968#$uroTap_1;noun yuwnAniy~_1;adj muTAradap_1;noun muhAjim_1;noun sifArap_1;noun 
+969#<ibol_1;noun Ha*~ar_1;verb musotaxodam_1;noun >ay~_1;noun_quant tywnz {inotiZAr_1;noun EalaY_1;prep wiynoduwz_1;noun_prop {isotA'_1;verb 
+970#maxAfap_1;noun tsuwnaAmiy_1;noun_prop taxofiyf_1;noun baEod_1;noun zilozAl_1;noun 
+971#{iEotabar_1;verb Siyn_1;noun_prop {iHotiyATiy~_2;noun ywrwbwnd 
+972#taHota_1;noun <iboT_1;noun suloTAn_1;noun li-_1;prep 
+973#mA_1;pron_rel lA_1;part_neg qal~-i_1;verb Ean_1;prep 130_0;digit mAt-u_1;verb musotawaY_1;noun {inofijAr_1;noun fiy_1;prep suwq_1;noun bagodAd_1;noun_prop 
+974#jaEal-a_1;verb fariyq_1;noun mAkyn jadiyd_1;adj <iEolAn_1;noun hujuwm_1;noun >an~a_1;conj_sub mar~ap_1;noun wAHid_1;noun_num {iEotaraD_1;verb 
+975#wafAp_1;noun fiy_1;prep ma$oEal_2;noun <inofluwanozA_1;noun Tayor_1;noun fiy_1;prep >asoyA_1;noun_prop 
+976#HamAs_1;noun_prop ,_0;punc qA}id_1;noun fatoH_1;noun taEah~ad_1;verb {ijotimAE_1;noun Hat~aY_4;conj_sub tawaS~al_1;verb <ilaY_1;prep {it~ifAq_1;noun 
+977#kAn-u_1;verb DAbiT_2;noun "_0;punc EalAqap_1;noun "_0;punc maE_1;noun muxotaTif_1;noun mazoEuwm_1;adj 
+978#lA_1;part_neg wajad-i_1;verb kitAb_1;noun <ilikotruwniy~_1;adj hAriy_1;adj buwtir_1;noun_prop sAbiE_1;adj_num 
+979#murAjaEap_1;noun :_0;punc nwkyA 5300_0;digit <ksbrs muwsiyqaY_1;noun 
+980#' lA_1;part_neg >amokan_1;verb qiyAm_1;noun *`lika_1;pron_dem baEod_1;noun |n_1;noun ?_0;punc layosa_1;verb jAk_1;noun_prop 
+981#valAv_1;noun_num vaqob_1;noun >asad_1;noun raSad-u_1;verb 
+982#<isorA}iyl_1;noun_prop zanaY-i_1;verb bav~_1;noun ma$oruwE_1;noun madiynap_1;noun qadiym_1;adj 
+983#balag-u_1;verb wafAp_1;noun <inofluwanozA_1;noun fiy_1;prep <inoduwniysiyA_1;noun_prop 613_0;digit $axoS_1;noun 
+984#lAji}_1;noun SuwmAliy~_1;adj qaTaE-a_1;verb Ean_1;prep musAEid_1;noun 
+985#mAyokruwsuwft_1;noun_prop dwnAblAys {isotA'_1;verb taEar~uf_1;noun EalaY_1;prep kalAm_1;noun {ixotirAq_1;noun 
+986#buqoEap_1;noun sAxin_1;adj jaziyrap_1;noun tAliy_1;adj :_0;punc sAnt_1;noun_prop lwsyA 
+987#<iyTAliyA_1;noun_prop Eaqod_1;noun muHAkamap_1;noun lA_1;part_neg >aZohar_1;verb min_1;prep brwnks jiy_1;abbrev fiy_1;prep EirAq_1;noun_prop *aboH_1;noun 
+988#<inoqA*_1;noun walad_1;noun >ab_1;noun HA}il_2;noun "_0;punc muEojizap_1;noun "_0;punc 
+989#kanadiy~_1;noun Eaqab-u_1;verb fiy_1;prep Haloqap_1;noun <ibAHiy~_1;adj Tifol_1;noun 
+990#xAriqap_1;noun fiy_1;prep san~_1;noun murAhiq_1;adj mawoqiE_1;noun Hukuwmap_1;noun finizuwil~iy~_1;adj EalaY_1;prep $abakap_1;noun <inotironit_1;noun_prop 
+991#xaT~aT_1;verb ruwsiyA_1;noun_prop qAr~ap_1;noun jadiyd_1;adj ,_0;punc gaw~ASap_1;noun nawawiy~_1;adj 
+992#jiyr_1;noun hutAf_1;noun EAmil_2;noun fiy_1;prep majAl_1;noun jinos_1;noun fiy_1;prep mukAfaHap_1;noun >ayodz_1;noun_prop 
+993#dirAsap_1;noun :_0;punc Eiroq_1;noun *akar_1;noun sab~ab_1;verb huwromuwn_1;noun >unovaY_1;adj fiy_1;prep {irotifAE_1;noun 
+994#{iSoTidAm_1;noun EalaY_1;prep Tariyq_1;noun jaliydiy~_1;adj qatal-u_1;verb 7_0;digit 
+995#mufAja>ap_1;noun :_0;punc Siyn_1;noun_prop xafoD_1;noun siEor_1;noun gAz_1;noun 
+996#mA_1;pron_rel Ear~Ab_1;noun ruwH_1;noun EanaY-i_1;verb li-_1;prep 
+997#mir~iyx_1;noun_prop jadiyd_1;adj buqoEap_1;noun madAriy~_1;adj bAvfAyndr hubuwT_1;noun mawoqiE_1;noun 
+998#kutolap_1;noun finizuwil~A_1;noun_prop jamaE-a_1;verb muEAraDap_1;noun 
+999#bariyq_1;noun -_0;punc wa_1;conj "_0;punc bwrAt "_0;punc -_0;punc fiy_1;prep juwlodin_1;noun_prop glwb 
+1000#maso&uwl_1;noun <irohAb_1;noun ra>aY-a_1;verb >an~a_1;conj_sub qA}id_1;noun qAEidap_1;noun_prop {isotaEAd_1;verb suloTap_1;noun 
+1001#majal~ap_1;noun <yfryA :_0;punc fiy_1;prep madiynap_1;noun <iyTAliy~_1;adj ,_0;punc daros_1;noun tarobiyap_1;noun madaniy~_1;adj min_1;prep jAr_1;noun jaroy_1;noun 
+1002#Zahar-a_1;verb >aroD_1;noun sun~iy~_1;adj EirAqiy~_1;adj waEod_1;noun jadiyd_1;adj nafoT_1;noun gAz_1;noun 
+1003#>amiyr_1;noun wariyv_1;noun frAnz firodiynAnod_1;noun_prop HArab_1;verb <ilogA'_1;noun qAnuwn_1;noun kasob_1;noun qaloEap_1;noun 
+1004#najom_1;noun fiylom_1;noun fiy_1;prep kamobAlA_1;noun_prop ,_0;punc {isotiHoDAr_1;noun >mynws $abaH_1;noun 
+1005#musal~aH_3;noun hAjam_1;verb qAEidap_2;noun >amoriykiy~_1;adj fiy_1;prep EirAq_1;noun_prop 
+1006#xa$iy-a_1;verb $amAl_1;noun >aforiyqiyA_1;noun_prop min_1;prep >an~a_1;conj_sub mah~ad_1;verb <irohAb_1;noun 
+1007#qAl-u_1;verb <iyrAn_1;noun_prop >an~a_1;conj_sub sanap_1;noun ,_0;punc {isotixodAm_1;noun bAkisotAn_1;noun_prop qAEidap_2;noun ,_0;punc xaT~aT_1;verb qaSof_1;noun mumiyt_1;adj 
+1008#<njlykywn far~aE_1;verb faroE_1;noun wilAyap_1;noun mut~aHid_1;adj EalaY_1;prep niqAbap_1;noun min_1;prep nafos_1;noun jinos_1;noun 
+1009#qunobulap_1;noun maHal~iy~_1;adj SanoE_1;noun qatal-u_1;verb 65_0;digit EalaY_1;prep qiTAr_1;noun hinodiy~_1;adj 
+1010#naZar-u_1;verb <ilaY_1;prep qA}id_1;noun qAEidap_2;noun {isotiEAdap_1;noun suloTap_1;noun 
+1011#had~ad_1;verb $Afiyz_1;noun_prop sijon_1;noun EalaY_1;prep munotahak_1;adj DAbiT_1;noun EalaY_1;prep siEor_1;noun 
+1012#buw$_1;noun_prop >aEolan_1;verb >an~a_1;conj_sub dawor_1;noun <iyrAniy~_1;adj silAH_1;noun fiy_1;prep EirAq_1;noun_prop mu&ak~id_1;adj 
+1013#>aEolan_1;verb {it~ifAq_1;noun EalaY_1;prep kuwriyA_1;noun_prop $amAliy~_1;adj 
+1014#wilAyap_1;noun mut~aHid_1;adj qAl-u_1;verb >an~a_1;conj_sub rajul_1;noun diyn_1;noun EirAqiy~_1;adj quw~ap_1;noun EA$_1;verb fiy_1;prep <iyrAn_1;noun_prop 
+1015#xuT~ap_1;noun bagodAd_1;noun_prop nAjiH_1;adj ,_0;punc ra}iys_1;noun waziyr_1;noun EirAqiy~_1;adj qAl-u_1;verb buw$_1;noun_prop 
+1016#Zahar-a_1;verb >aroD_1;noun sun~iy~_1;adj EirAqiy~_1;adj waEod_1;noun jadiyd_1;adj nafoT_1;noun gAz_1;noun 
+1017#xilAf_1;noun Hawol_1;noun rajul_1;noun diyn_1;noun EirAqiy~_1;adj ,_0;punc qAl-u_1;verb >an~a_1;conj_sub *ahab-a_1;verb <ilaY_1;prep <iyrAn_1;noun_prop 
+1018#taxoTiyT_1;noun naZar-u_1;verb fiy_1;prep hajomap_1;noun EirAqiy~_1;adj EalaY_1;prep mirowaHiy~ap_1;noun >amoriykiy~_1;adj 
+1019#fiy_1;prep EAlam_1;noun dawA'_1;noun munoqi*_1;noun HayAp_1;noun ,_0;punc wabA'_1;noun mutazAyid_1;adj min_1;prep muzay~af_1;adj qAtil_1;adj 
+1020#>asAsiy~_1;adj :_0;punc vadoyiy~_1;noun fiy_1;prep faSol_1;noun $itA'_1;noun maE_1;noun furon_1;noun min_1;prep balad_1;noun 
+1021#katab-u_1;verb Ean_1;prep Eilom_2;noun :_0;punc mu$okilap_1;noun fiy_1;prep nm*jp TabiyEap_1;noun ,_0;punc maE_1;noun mayol_1;noun TabiyEiy~_1;adj jAmiH_1;adj 
+1022#kitAb_1;noun mu&omin_1;adj l`kino_1;conj laEob_1;noun min_1;prep xilAl_1;noun qAEidap_2;noun Eilom_1;noun 
+1023#Sawot_1;noun ma>oluwf_1;noun SariyH_1;adj ,_0;punc jalab-iu_1;verb <ilaY_1;prep HayAp_1;noun 
+1024#natiyjap_1;noun :_0;punc bArid_1;adj 25_0;digit miloyuwn_1;noun_num $ xuT~ap_1;noun nusoxap_1;noun {iHotiyATiy~_1;adj munAx_1;noun 
+1025#sam~aY_1;verb syrndybyty :_0;punc tam~-i_1;verb Euvuwr_1;noun EalaY_1;prep qiToEap_1;noun mafoquwd_1;adj min_1;prep xayomap_1;noun Harob_1;noun fiy_1;prep wA$inoTuwn_1;noun_prop 
+1026#<irAdap_1;noun Hur~_1;adj :_0;punc |n_1;noun ladaY_1;noun *`lika_1;pron_dem ,_0;punc |n_1;noun >anota_1;pron lA_1;part_neg 
+1027#EAlim_1;noun >avar_1;noun wajad-i_1;verb EalAmap_1;noun EalaY_1;prep {isotixodAm_1;noun >adAp_1;noun $iymobAnoziy_1;noun fiy_1;prep waqot_1;noun mubak~ir_1;adj 
+1028#wyzArdry |tiy_1;adj hArofarod_1;noun_prop :_0;punc fiyzyA}iy~_1;adj taHar~ak_1;verb Dawo'_1;noun 
+1029#qim~ap_1;noun -_0;punc SafoEap_1;noun fiy_1;prep wajoh_1;noun filasoTiyniy~_1;noun 
+1030#muwsokuw_1;noun_prop qAl-u_1;verb <ino_1;conj_sub {it~iSAl_1;noun filasoTiyniy~_1;adj <isorA}iyliy~_1;adj mifotAH_1;noun salAm_1;noun fiy_1;prep $aroq_1;noun >awosaT_1;adj_comp 
+1031#qim~ap_1;noun $aroq_1;noun >awosaT_1;adj_comp maE_1;noun taqad~um_1;noun Da}iyl_1;adj 
+1032#hinod_1;noun_prop >axofaY_1;verb "_0;punc Eamal_1;noun taxoriybiy~_1;adj "_0;punc 
+1033#muHAdavap_1;noun salAm_1;noun bAkistAniy~_1;adj hinodiy~_1;adj xaT~aT_1;verb ragom_1;noun tafojiyr_1;noun 
+1034#t$iykiy~_1;noun ,_0;punc buwlanodiy~_1;noun HuSuwl_1;noun EalaY_1;prep taHo*iyr_1;noun SAruwx_1;noun 
+1035#ruwsiyA_1;noun_prop Ha*~ar_1;verb wilAyap_1;noun mut~aHid_1;adj min_1;prep qAEidap_2;noun SAruwx_1;noun fiy_1;prep $aroq_1;noun >uwrub~A_1;noun_prop 
+1036#t$iyniy_1;noun_prop bada>-a_1;verb ziyArap_1;noun <ilaY_1;prep yAbAn_1;noun_prop ,_0;punc >usoturAliyA_1;noun_prop 
+1037#Siyn_1;noun_prop :_0;punc t$iyniy_1;noun_prop $ATi}_1;noun taHAluf_1;noun vulAviy~_2;adj 
+1038#musal~aH_3;noun EirAqiy~_1;adj hAjam_1;verb qAEidap_2;noun >amoriykiy~_1;adj 
+1039#junodiy~_1;noun >amoriykiy~_1;adj mAt-u_1;verb fiy_1;prep yawom_1;noun min_1;prep Eunof_1;noun 
+1040#qatal-u_1;verb Eamaliy~ap_1;noun {inotiHAriy~_1;adj EirAqiy~_1;adj junodiy~_1;noun >amoriykiy~_1;adj bayonamA_1;conj_sub qAtal_1;verb musal~aH_3;noun Eamaliy~ap_1;noun taTohiyr_1;noun 
+1041#<iyrAn_1;noun_prop tarAjaE_1;verb Ean_1;prep madofuwE_1;noun nawawiy~_1;adj ruwsiyA_1;noun_prop 
+1042#>aEolaY_2;adj_comp {isotiqAlap_1;noun maso&uwl_1;noun kuwluwmobiyA_1;noun_prop 
+1043#kuwluwmobiyA_1;noun_prop {isotaqAl_1;verb waziyr_1;noun xArijiy~_1;adj baEod_1;noun {iEotiqAl_1;noun >aqorab_1;noun rAbiTap_1;noun miyliy$iyA_1;noun 
+1044#{isotaqAl_1;verb waziyr_1;noun xArijiy~_1;adj kuwluwmobiyA_1;noun_prop fiy_1;prep faDiyHap_1;noun 
+1045#nywziylAnodA_1;noun_prop min_1;prep gayor_1;noun muraj~iH_1;noun >ano_1;conj_sub samaH-a_1;verb bAl$lAny yAbAniy~_1;adj $alal_1;noun 
+1046#qado_1;part_verb {isota>onaf_1;verb safiynap_1;noun Sayod_1;noun Huwt_1;noun yAbAniy~_1;adj mutaDar~ir_1;adj Sayod_1;noun qAr~ap_1;noun quTobiy~_1;adj januwbiy~_1;adj 
+1047#safiynap_1;noun Sayod_1;noun Huwt_1;noun yAbAniy~_1;adj lano_1;part_neg qabil-a_1;verb musAEid_1;noun 
+1048#ra}iys_1;noun <iyrAniy~_1;adj rafiyE_1;adj musotawaY_1;noun <ilaY_1;prep fiyyin~A_1;noun_prop <ijorA'_1;noun muHAdavap_1;noun nawawiy~_1;adj 
+1049#DaHiy~ap_1;noun hawA'_1;noun hinod_1;noun_prop lA_1;part_neg zAl-a_1;verb {inotaZar_1;verb EadAlap_1;noun 
+1050#qunobulap_1;noun kAny$kA :_0;punc qADiy_1;noun taHoqiyq_1;noun had~ad_1;verb <iqolAE_1;noun Ean_1;prep tadoxiyn_1;noun 
+1051#qADiy_1;noun had~ad_1;verb <igolAq_1;noun taHoqiyq_1;noun jaw~iy~_1;adj hinodiy~_1;adj 
+1052#malikap_1;noun >anoqa*_1;verb >amal_1;noun ri}Asap_1;noun maE_1;noun qiyAdap_1;noun >adA'_1;noun 
+1053#mulokiy~_1;adj saEaY-a_1;verb <iHoyA'_1;noun muHAwalap_1;noun faranosiy~_1;adj 
+1054#sArkwzy minoTaqap_1;noun rAHap_1;noun waf~ar_1;verb furoSap_1;noun malakiy~_1;noun 
+1055#hyks >aw~al_2;adj_num fiy_1;prep xaT~_1;noun muHAkamap_1;noun ,_0;punc qAl-u_1;verb buw$_1;noun_prop 
+1056#qAl-u_1;verb >usoturAliyA_1;noun_prop buw$_1;noun_prop tasoriyE_1;noun muHAkamap_1;noun jwAnotanAmuw_1;noun_prop 
+1057#hAward_1;noun_prop DagaT_1;verb buw$_1;noun_prop EalaY_1;prep mu$otabah_1;adj fiy_1;prep <irohAbiy~_1;noun 
+1058#faranosA_1;noun_prop >anohaY_1;verb tanobiyh_1;noun sAm~_1;adj fiy_1;prep sifArap_1;noun kanadiy~_1;adj fiy_1;prep bAriys_1;noun_prop 
+1059#$uroTap_1;noun bAriys_1;noun_prop taHaq~aq_1;verb fiy_1;prep Safoqap_1;noun fiy_1;prep sifArap_1;noun kanadiy~_1;adj 
+1060#<ino*Ar_1;noun kA*ib_1;noun fiy_1;prep sifArap_1;noun kanadiy~_1;adj fiy_1;prep bAriys_1;noun_prop 
+1061#quw~ap_1;noun >afogAniy~_1;adj {isotaEAd_1;verb madiynap_1;noun Al~a*iy_1;pron_rel {ijotAH_1;verb TAlibAn_1;noun_prop 
+1062#{isotawolaY_1;verb TAlibAn_1;noun_prop EalaY_1;prep minoTaqap_1;noun riyfiy~_1;adj fiy_1;prep januwb_1;noun garob_1;noun balad_1;noun Einod_1;noun tahar~ab_1;verb $uroTap_1;noun 
+1063#Harob_1;noun xa$oxA$_1;noun >afogAniy~_1;adj nazaE-i_1;verb muzAriE_1;noun 
+1064#halo_1;part_interrog kuwriyA_1;noun_prop $amAliy~_1;adj takoriym_1;noun taEah~ud_1;noun h`*A_1;pron_dem mar~ap_1;noun ?_0;punc 
+1065#kiym_1;noun_prop juwng_1;noun_prop <iyl_1;noun_prop HaZar-u_1;verb say~Arap_1;noun yAbAniy~_1;adj fiy_1;prep kuwriyA_1;noun_prop $amAliy~_1;adj 
+1066#<iyrAn_1;noun_prop muqAbil_1;noun kuwriyA_1;noun_prop $amAliy~_1;adj :_0;punc layosa_1;verb kul~_1;noun_quant Eaduw~_1;noun mutasAwiy_1;adj 
+1067#>usoquf_1;noun kAvuwliykiy~_1;adj >awojaz_1;verb >amal_1;noun {inodimAj_1;noun >anojliykAniy~_1;adj 
+1068#>amokan_1;verb >ano_1;conj_sub {inodamaj_1;verb kaniysap_1;noun >anojliykAniy~_1;adj kAvuwliykiy~_1;adj 
+1069#wilAyap_1;noun mut~aHid_1;adj taHaT~um_1;noun TA}irap_1;noun hilikuwbotar_1;noun qatal-u_1;verb 8_0;digit junodiy~_1;noun fiy_1;prep >afogAnisotAn_1;noun_prop 
+1070#maqotal_1;noun vamAniy_1;noun_num junodiy~_1;noun >amoriykiy~_1;adj fiy_1;prep taHaT~um_1;noun mirowaHiy~ap_1;noun zAbl 
+1071#>a$Ad_1;verb Arwyw ma$oruwE_1;noun qAnuwn_1;noun mukAfaHap_1;noun <irohAb_1;noun 
+1072#bayot_3;noun mar~-u_1;verb tadobiyr_1;noun mukAfaHap_1;noun <irohAb_1;noun mAniylA_1;noun_prop 
+1073#<imobirATuwriy~ap_1;noun naqol_1;noun lyfyngstwn qado_1;part_verb {imotad~_1;verb 
+1074#lanodan_1;noun_prop hiya_1;pron watiyrap_1;noun wADiE_2;noun EalaY_1;prep HaSiylap_1;noun {izodiHAm_1;noun ,_0;punc qAl-u_1;verb Eumodap_1;noun 
+1075#muZAharap_1;noun {iHotaj~_1;verb tuhomap_1;noun {izodiHAm_1;noun tuhomap_1;noun garob_1;noun 
+1076#hajomap_1;noun tAyolanod_1;noun_prop qatal-u_1;verb valAv_1;noun_num ,_0;punc <iSAbap_1;noun 70_0;digit 
+1077#Hukuwmap_1;noun tAyolanodiy~_1;adj taHar~ak_1;verb tasohiyl_1;noun EalAqap_1;noun maE_1;noun januwb_1;noun 
+1078#tafojiyr_1;noun qAl-u_1;verb <ino_1;conj_sub mutamar~id_1;noun musolim_1;adj lano_1;part_neg tafAwaD_1;verb 
+1079#ji*or_1;noun tawaH~ud_1;noun >akovar_2;adj_comp taEoqiyd_1;noun min_1;prep fikor_1;noun 
+1080#>akobar_2;adj_comp dirAsap_1;noun tawaH~ud_1;noun min_1;prep >ay~_1;noun_quant waqot_1;noun maDaY-i_1;verb Had~ad_1;verb {ivon_1;noun_num min_1;prep jAniy_1;noun jiyniy~_1;noun 
+1081#{ixotirAq_1;noun kanadiy~_1;adj qad~am_1;verb >amal_1;noun EalaY_1;prep tawaH~ud_1;noun 
+1082#Ha*Ari_1;verb min_1;prep musab~ib_1;noun maraD_1;noun zubod_1;noun fuwl_1;noun suwdAniy~_1;adj 
+1083#qad~am_1;verb xabiyr_1;noun ma$uwrap_1;noun $a>on_1;noun AlsAlmwnylA 
+1084#>aSodar_1;verb xabiyr_1;noun <iro$Ad_1;noun jadiyd_1;adj $a>on_1;noun maraD_1;noun qalob_1;noun nisA'_1;noun 
+1085#nisA'_1;noun ,_0;punc >asobiriyn_1;noun yawomiy~_1;adj >amokan_1;verb >ano_1;conj_sub baqiy-a_1;verb sakotap_1;noun dimAgiy~_1;adj baEiyd_1;adj 
+1086#{irotifAE_1;noun kuwlisotiruwl_1;noun >avAr_1;verb xaTar_1;noun sakotap_1;noun dimAgiy~_1;adj nisA'_1;noun SaHiyH_2;adj 
+1087#Suduwr_1;noun dajAj_1;noun maTobuwx_1;adj {inoDam~_1;verb <ilaY_1;prep TaEAm_1;noun mulaw~iv_2;noun 
+1088#EalaY_1;prep {isotiEodAd_1;noun >akol_1;noun vadoy_1;noun dajAj_1;noun *akar-u_1;verb sabab_1;noun {i$otabah_1;verb AllystyryA 
+1089#$ariyT_1;noun dajAj_1;noun maTobuwx_1;adj kAmil_1;adj *ak~ar_1;verb 
+1090#lajonap_1;noun nAqa$_1;verb xuT~ap_1;noun laqAH_1;noun saraTAn_1;noun 
+1091#waqof_1;noun saraTAn_1;noun maE_1;noun Talaqap_1;noun 
+1092#TA}ir_1;noun wAHid_1;noun_num min_1;prep laqAH_1;noun tam~-i_1;verb taToEiym_1;noun min_1;prep <inofluwanozA_1;noun Tayor_1;noun qurob_1;noun min_1;prep muwsokuw_1;noun_prop 
+1093#>alof_1;noun_num {ixotibAr_1;noun baEod_1;noun {inodilAE_1;noun H5N1 ruwsiy~_1;adj 
+1094#tafa$~iy_1;noun <inofluwanozA_1;noun Tayor_1;noun ruwsiy~_1;adj huwa_1;pron "_0;punc sulAlap_1;noun >asiyawiy~_1;adj "_0;punc 
+1095#bironAr_1;noun_prop mAvywz tasoriyH_1;noun mA_1;pron_rel waSal-i_1;verb <ilaY_1;prep 500_0;digit EAmil_2;noun 
+1096#mAtywz waDaE_1;verb 130_0;digit EAmil_2;noun turokiyA_1;noun_prop 
+1097#<iEAdap_1;noun fatoH_1;noun <inofluwanozA_1;noun Tayor_1;noun -_0;punc hytfAktwry tajAhal_1;verb maxATir_1;noun -_0;punc dAjin_1;noun 
+1098#wadAE_1;noun Tifol_1;noun 
+1099#wasiylap_1;noun <iEolAm_1;noun {isota$ohad_1;verb <iZohAr_1;noun fatAp_1;noun jinos_1;noun 
+1100#taHar~u$_1;noun jinosiy~_1;adj "_0;punc Dar~-u_1;verb "_0;punc fatAp_1;noun Sagiyr_1;noun 
+1101#Talaqap_1;noun fiy_1;prep *irAE_1;noun 
+1102#>alof_1;noun_num {iSoTaf~_1;verb HuSuwl_1;noun EalaY_1;prep Talaqap_1;noun <inofluwanozA_1;noun muta>ax~ir_1;adj 
+1103#muqATaEap_1;noun kiyng_1;noun_prop qad~am_1;verb baEoD_1;noun_quant lqAHAt <inofluwanozA_1;noun Hur~_1;adj 
+1104#taEah~ad_1;verb buw$_1;noun_prop taEAwun_1;noun fiy_1;prep majAl_1;noun riEAyap_1;noun SiH~iy~_1;adj 
+1105#SiH~ap_1;noun EAd-u_1;verb qaDiy~ap_1;noun sAxin_1;adj fiy_1;prep sibAq_1;noun ' 08_0;digit 
+1106#SAHib_1;noun Eamal_1;noun Sagiyr_1;adj wajad-i_1;verb buw$_1;noun_prop xuT~ap_1;noun SiH~iy~_1;adj ja*~Ab_1;noun 
+1107#qAl-u_1;verb Tabiyb_1;noun Tifol_1;noun >an~a_1;conj_sub hunAka_1;adv HAjap_1;noun <ilaY_1;prep maziyd_1;noun min_1;prep dam_1;noun Habol_1;noun |n_1;noun 
+1108#sawA'_1;noun <inoqA*_1;noun dam_1;noun Habol_1;noun sir~iy~_1;adj >amokan_1;verb >ano_1;conj_sub kAn-u_1;verb lugoz_1;noun >ab_1;noun >um~_1;noun 
+1109#zaroE_1;noun $abakiy~_1;adj musAEadap_1;noun makofuwf_1;noun naZar-u_1;verb mar~ap_1;noun >uxoraY_1;adj 
+1110#<inoduwniysiyA_1;noun_prop "_0;punc lano_1;part_neg $Arak_1;verb "_0;punc Eayon_1;noun <inofluwanozA_1;noun 
+1111#>aSodar_1;verb munaZ~amap_1;noun SiH~ap_1;noun kanadiy~_1;adj ma$uwrap_1;noun $a>on_1;noun tuwnap_1;noun muEal~ab_1;adj 
+1112#rAbiT_1;adj kuwlisotiruwl_1;noun fiy_1;prep dirAsap_1;noun maraD_1;noun suk~ariy~_1;noun 
+1113#xaliy~ap_1;noun xinoziyr_1;noun >amal-a_1;verb EilAj_1;noun maraD_1;noun suk~ariy~_1;noun 
+1114#qalob_3;noun mariyD_1;noun tabodiyl_1;noun EalaY_1;prep janiyn_1;noun janiyn_1;noun 
+1115#|liy~ap_1;noun janiyn_1;noun sAEad_1;verb fa$al_1;noun qalob_1;noun 
+1116#qayoSariy~ap_1;noun muxaT~iT_1;noun lA_1;part_neg xAliy_1;adj min_1;prep maxATir_1;noun ,_0;punc Ha*~ar_1;verb majomuwEap_1;noun 
+1117#EAlim_1;noun tafaw~aq_1;verb EalaY_1;prep fA}idap_1;noun AlkAkAw SiH~iy~_1;adj 
+1118#tago*iyap_1;noun Eaqol_1;noun :_0;punc fA}idap_1;noun jadiyd_1;adj wajad-i_1;verb fiy_1;prep $ukuwlAtap_1;noun 
+1119#baEoD_1;noun_quant AlkAkAw qado_1;part_verb taHas~an_1;verb tadaf~uq_1;noun dam_1;noun fiy_1;prep mux~_1;noun 
+1120#muHAmiy_1;noun mutawaf~aY_1;adj mutaEAwin_1;adj maE_1;noun EaSor_1;noun nAziy~_1;adj bAbwn taEah~ad_1;verb dafon_1;noun 
+1121#>amokan_1;verb >ano_1;conj_sub kAn-u_1;verb AlkAkAw muDAd~_1;noun maraD_1;noun murotabiT_1;adj Eumor_1;noun ,_0;punc wifoq_1;noun dirAsap_1;noun jadiyd_1;adj 
+1122#Siyn_1;noun_prop nafaY_1;verb taqoriyr_2;noun Ean_1;prep {iEoti*Ar_1;noun kuwriyA_1;noun_prop $imAliy~_1;adj 
+1123#daEA-u_1;verb muEAraDap_1;noun hunogAriy~_1;adj taSowiyt_1;noun baEod_1;noun taSoEiyd_1;noun Eunof_1;noun 
+1124#{it~iHAd_1;noun >aforiyqiy~_2;adj >asif-a_1;verb Tarod_1;noun suwdAn_1;noun_prop maboEuwv_1;noun >um~ap_1;noun mut~aHid_1;adj 
+1125#maso&uwl_1;noun buw$_1;noun_prop :_0;punc lA_1;part_neg taHar~uk_1;noun kabiyr_1;adj fiy_1;prep EirAq_1;noun_prop 
+1126#tam~-i_1;verb waDoE_1;noun xaSom_1;noun EalaY_1;prep fawor_1;noun Hawol_1;noun taSoriyH_1;noun kliynotuwn_1;noun_prop 
+1127#muHAdavap_1;noun fariyq_1;noun >axolAqiy~_1;adj manoziliy~_1;adj <ilaY_1;prep musAEid_1;noun hAstrt 
+1128#blswv qAl-u_1;verb riboH_1;noun {irotafaE_1;verb 30_0;digit %_0;punc EalaY_1;prep riboH_1;noun Alsynyp 
+1129#<inoruwn_1;noun_prop mudar~ib_1;noun HaSal-u_1;verb 24_0;digit EAm_1;noun Hukom_1;noun 
+1130#suwniy_1;noun_prop {iEota*ar_1;verb Ean_1;prep {isotidoEA'_1;noun baT~Ariy~ap_1;noun 
+1131#jwjl ka$af-i_1;verb naq~Ab_1;noun Ean_1;prep *`lika_1;pron_dem nafos_1;noun muHar~ik_1;noun baHov_1;noun 
+1132#fAyrfwks 2.0_0;digit Darab_1;verb wiyb_2;noun_prop 
+1133#fataH-a_1;verb >wrAkl wwrld maE_1;noun diyl_1;noun_prop ka$af-i_1;verb naq~Ab_1;noun Ean_1;prep jihAz_1;noun kamobiyuwtir_1;noun Al~a*iy_1;pron_rel Eamil-a_1;verb TAqap_1;noun >amobiyr_1;noun 
+1134#siy_1;abbrev hwks ' qab~_1;noun hAsylbyk min_1;prep 2_0;digit -_0;punc 4_0;digit >usobuwE_1;noun 
+1135#mArAvuwn_2;noun fA}iz_1;noun Sadar-u_1;verb min_1;prep musota$ofaY_1;noun 
+1136#EiqAb_1;noun mut~aham_1;noun TaEon_1;noun sa>al-a_1;verb Ean_1;prep Eayo$_1;noun xArij_1;noun dawolap_1;noun 
+1137#>lmndynjr {inoDam~_1;verb <ilaY_1;prep fariyq_1;noun tuwyuwtA_1;noun_prop fiy_1;prep nAskAr 
+1138#fiy_1;prep muHAwalap_1;noun taqoyiym_1;noun Darar_1;noun fiy_1;prep kliyfolAnd_1;noun_prop 
+1139#qado_1;part_verb HAfaZ_1;verb Hi*A'_1;noun brAyinot_1;noun_prop EalaY_1;prep mawosim_1;noun buwkos_1;noun 
+1140#h`*A_1;pron_dem >usobuwE_1;noun fiy_1;prep sibAq_1;noun say~Arap_1;noun 27_0;digit >ukotuwbar_1;noun_prop -_0;punc 29_0;digit >ukotuwbar_1;noun_prop 
+1141#myrymAn {inotihAk_1;noun SAEiqap_1;noun_prop sAbiq_1;adj zamiyl_1;noun 
+1142#bruws_1;noun_prop ryfylz fiy_1;prep Diyq_1;noun 
+1143#stylrz ' rvlysbrjr ladaY_1;noun {irotijAj_1;noun 
+1144#>arovurz_1;noun_prop DAyaq_1;verb rwbrydw fiy_1;prep jawolap_1;noun >aw~al_2;adj_num fiy_1;prep sAnt_1;noun_prop buTorusobuwrg_1;noun_prop mafotuwH_1;adj 
+1145#mbyky :_0;punc taxoTiyT_1;noun ka>os_1;noun EAlam_1;noun 2010_0;digit EalaY_1;prep masAr_1;noun SaHiyH_1;adj 
+1146#sariyriy~_1;adj Ayfrtwn >aZohar_1;verb mwys EanaY-i_1;verb Eamal_1;noun 
+1147#mas~_1;noun >aDAf_1;verb >wfys 2007_0;digit <ilaY_1;prep baronAmaj_1;noun qasiymap_1;noun {isotA'_1;verb 
+1148#baHov_1;noun wAHid_1;noun_num lA_1;part_neg nAsab_1;verb jamiyE_1;noun_quant 
+1149#sir~_1;noun <ibol_1;noun ZalAm_1;noun ?_0;punc muTAlabap_1;noun 39_0;digit %_0;punc 
+1150#Taqos_1;noun say~i'_1;adj >alogaY_1;verb {inoHidAr_1;noun rajul_1;noun 
+1151#miloyuwn_1;noun_num bAriz_1;adj mu&as~is_1;noun ywtwb 
+1152#lanodan_1;noun_prop suwq_1;noun tasaw~uq_1;noun ,_0;punc malA*_1;noun TaEAm_1;noun 
+1153#"_0;punc jAkAs "_0;punc najom_1;noun tazaw~aj_1;verb Sadiyq_1;noun Tufuwlap_1;noun sir~_1;noun nAs_1;noun ka$af-i_1;verb 
+1154#>awodiyuw_1;noun slyd $uw_1;noun_prop :_0;punc qiS~ap_1;noun Hub~_1;noun dAm_1;verb 61_0;digit EAm_1;noun 
+1155#mAyokruwsuwft_1;noun_prop <iTolAq_1;noun hAtif_1;noun jiyl_1;noun qAdim_1;adj 
+1156#wud~_1;noun $awob_1;noun fiy_1;prep rwdyk ladaY_1;noun {ilotihAb_1;noun kabid_1;noun C 
+1157#fiy_1;prep san~_1;noun murAhiq_1;adj zaEam-u_1;verb >an~a_1;conj_sub musal~aH_1;adj min_1;prep qibal_1;noun >um~_1;noun taHaw~al_1;verb nafos_1;noun fiy_1;prep 
+1158#>wksfAm :_0;punc <ijorA'_3;noun lAzim_1;adj $Ad~_1;verb 
+1159#{isotamar~_1;verb Eunof_1;noun fiy_1;prep mawoqiE_1;noun muqad~as_1;adj mutanAzaE_1;adj EalaY_1;prep 
+1160#EASifap_1;noun tarak-u_1;verb warA'_1;noun mu$okilap_1;noun safar_1;noun ra}iysiy~_1;adj 
+1161#3_0;digit quw~ap_1;noun >amoriykiy~_1;adj qatal-u_1;verb maxoba>_1;noun silAH_1;noun Sayod_1;noun 
+1162#Siyn_1;noun_prop "_0;punc Sadiyq_1;noun "_0;punc sal~aT_1;verb Dawo'_1;noun EalaY_1;prep Hur~iy~ap_1;noun wiyb_2;noun_prop 
+1163#nAtuw_1;noun_prop :_0;punc salAm_1;noun >afogAnisotAn_1;noun_prop "_0;punc Hal~_1;noun EAm_1;noun 2009_0;digit "_0;punc 
+1164#Dawo'_1;noun >alAsokA_1;noun_prop $amAliy~_1;adj yAsir_1;noun_prop yAbAniy~_1;adj 
+1165#smiyv_1;noun_prop lA_1;part_neg >amokan_1;verb >ano_1;conj_sub dafan-i_1;verb Hat~aY_1;prep samoE_1;noun 
+1166#Had~ad_1;verb sbAswwAkr sijil~_1;noun >amoriykiy~_1;adj jadiyd_1;adj 
+1167#fwrt$n :_0;punc hinod_1;noun_prop quw~ap_1;noun >aEoZam_2;adj ?_0;punc fikor_1;noun mar~ap_1;noun >uxoraY_1;adj 
+1168#taSoEiyd_1;noun kiyr_1;noun "_0;punc taSoEiyd_1;noun Harob_1;noun muDal~il_1;adj "_0;punc 
+1169#>anA_1;pron niykuwl_1;noun_prop maTolab_1;noun :_0;punc >amiyr_1;noun rajul_1;noun ?_0;punc 
+1170#' ruwniy_1;noun_prop ' wa_1;conj Eto'o EinAq_1;noun taEowiyD_1;noun 
+1171#>afoDal_2;adj_comp maEoriD_1;noun $iykAguw_1;noun_prop say~Arap_1;noun 
+1172#' ramAdiy~_1;adj ' ,_0;punc ' bayot_3;noun ,_0;punc ' ' AldEk ' HuSuwl_1;noun EalaY_1;prep dafoEap_1;noun 
+1173#fax~_1;noun Tiyniy~_1;adj Daxom_1;adj Ea$or_1;noun_num min_1;prep EA}ilap_1;noun 
+1174#<idowArodz_1;noun_prop mudaw~an_1;noun {inotahaY_1;verb ,_0;punc >aSobaH_1;verb $ahiyd_1;noun SuHufiy~_1;adj 
+1175#balodap_1;noun Hazom_1;noun SAlap_1;noun riyADiy~_1;adj Huzon_1;noun 10_0;digit qatal-u_1;verb fiy_1;prep nAr_1;noun 
+1176#<isobAniyA_1;noun_prop qadam_1;noun EalaY_1;prep ragom_1;noun min_1;prep nAdAl huwa_1;pron xArij_1;noun 
+1177#banok_1;noun marokaziy~_1;adj >uwrub~iy~_1;adj Hamal-i_1;verb siEor_1;noun fA}idap_1;noun Einod_1;noun 3.5_0;digit fiy_1;prep mi}ap_1;noun_num 
+1178#<iyrAn_1;noun_prop rafaD-u_1;verb mazoEamap_1;noun >amoriykiy~_1;adj tazowiyd_1;noun silAH_1;noun fiy_1;prep EirAq_1;noun_prop 
+1179#jAkArotA_1;noun_prop bada>-a_1;verb taTohiyr_1;noun 
+1180#rwlyng ' Huzon_1;noun ' ,_0;punc ' bahiyjap_1;noun_prop ' fiy_1;prep nihAyap_1;noun ' buwtir_1;noun_prop ' 
+1181#<ibol_1;noun >anoEa$_1;verb hajomap_1;noun mAk_1;noun_prop EalaY_1;prep wiynoduwz_1;noun_prop {isotA'_1;verb 
+1182#xawof_1;noun EAq-u_1;verb tabar~uE_1;noun nuxAE_1;noun >asowad_1;adj 
+1183#zaEam-u_1;verb >an~a_1;conj_sub tyksAn {inoDam~_1;verb <ilaY_1;prep mu&Amarap_1;noun mutamar~id_1;noun SuwmAliy~_1;adj 
+1184#wilAyap_1;noun mut~aHid_1;adj samAH_1;noun li_1;prep 7,000_0;digit lAji}_1;noun EirAqiy~_1;adj 
+1185#yAbAn_1;noun_prop :_0;punc 
+1186#"_0;punc hAnybAl "_0;punc ladag-u_1;verb wAHid_1;noun_num kabiyr_1;adj 
+1187#maro>ap_1;noun {iHotaj~_1;verb EalaY_1;prep hadom_1;noun bAkisotAn_1;noun_prop 
+1188#way_1;noun xabar_1;noun lAEib_1;noun 
+1189#naZar-u_1;verb diymuqrATiy~_1;noun <ilaY_1;prep mA_1;pron_rel warA'_1;noun taSowiyt_1;noun ramoziy~_1;adj EalaY_1;prep EirAq_1;noun_prop 
+1190#burotugAl_1;noun_prop taSowiyt_1;noun EalaY_1;prep qAnuwn_1;noun <ijohAD_1;noun 
+1191#<iHobAT_1;noun {irotafaE_1;verb maE_1;noun tawaq~uf_1;noun muHAdavap_1;noun nawawiy~_1;adj kuwriyA_1;noun_prop $imAliy~_1;adj 
+1192#sin~_1;noun HiSAn_1;noun >aEoTaY_1;verb tafoSiyl_1;noun barod_1;noun kabiyr_1;adj qadiym_1;adj 
+1193#gi$~_1;noun saHar_1;noun DaHiy~ap_1;noun maE_1;noun EaroD_1;noun jrw maj~An_1;adj 
+1194#kuwriy~_1;noun {isoti}onAf_1;noun muHAdavap_1;noun 
+1195#mykylswn quw~ap_1;noun qiyAdap_1;noun fiy_1;prep mAjisotiyr_1;noun 
+1196#<inojilotirA_1;noun_prop {ixotAr_1;verb bwbArA EalaY_1;prep luwiy_1;noun_prop 
+1197#<ino$A'_1;noun xAS~_1;adj "_0;punc vrylfyl "_0;punc riHolap_1;noun bar~iy~_1;adj 
+1198#mudaw~an_1;noun Hamolap_1;noun <idowArodz_1;noun_prop nazal-i_1;verb wasaT_1;noun jadal_1;noun kAvuwliykiy~_1;adj 
+1199#qADiy_1;noun :_0;punc HifAZ_1;noun EalaY_1;prep jasad_1;noun >anA_1;pron niykuwl_1;noun_prop 
+1200#dulofiyn_1;noun ,_0;punc >asowad_1;noun baHor_1;noun qado_1;part_verb taqoriyr_1;noun Ean_1;prep wAjib_1;noun qariyb_1;adj 
+1201#maEorakap_1;noun nAsodAk_1;noun_prop -_0;punc ls {iqotarab_1;verb min_1;prep mawoEid_1;noun nihA}iy~_1;adj 
+1202#nidA'_1;noun $axoSiy~_1;adj xuT~ap_1;noun laqAH_1;noun fayoruws_1;noun waram_1;noun Haliym_2;noun ba$ariy~_1;adj 
+1203#wilAyap_1;noun mut~aHid_1;adj fataH-a_1;verb bAb_1;noun >amAm_1;noun lAji}_1;noun EirAqiy~_1;adj 
+1204#taHaT~um_1;noun TA}irap_1;noun suwiysoriy~_1;adj fiy_1;prep maTAr_1;noun muwsokuw_1;noun_prop 
+1205#dirAsap_1;noun :_0;punc qayoluwlap_1;noun qado_1;part_verb sAEad_1;verb qalob_1;noun 
+1206#mabiyE_1;noun mAy_1;noun_prop sbys {irotifAE_1;noun 
+1207#EimolAq_1;noun {it~iSAl_1;noun xaf~aD_1;verb 12500_0;digit waZiyfap_1;noun 
+1208#<iyr_1;noun_prop frns {irotafaE_1;verb riboH_1;noun klm_1;abbrev 
+1209#Sawot_1;noun barolamAn_1;noun >uwganodA_1;noun_prop EalaY_1;prep <irosAl_1;noun quw~ap_1;noun <ilaY_1;prep SuwmAl_1;noun_prop 
+1210#malik_2;noun wa_1;conj malikap_1;noun sAd-u_1;verb fiy_1;prep jA}izap_1;noun fiylom_1;noun briyTAniy~_1;adj 
+1211#mwrfys Hukom_1;noun $abakap_1;noun ta*okarap_1;noun maE_1;noun ' nwrbyt ' 
+1212#>alof_1;noun_num tajam~uE_1;noun fiy_1;prep lubonAn_1;noun_prop 
+1213#saEoy_1;noun muhim~ap_1;noun yAhw 
+1214#wajab-i_1;verb HuSuwl_1;noun EalaY_1;prep minoTaqap_1;noun 3_0;digit -_0;punc 5_0;digit buwSap_1;noun min_1;prep valoj_1;noun yawom_1;noun 
+1215#malikap_1;noun jamAl_1;noun_prop barAziyl_1;noun_prop fAz-u_1;verb daEowaY_1;noun qaDA}iy~_1;adj 
+1216#tasAquT_1;noun valoj_1;noun fasAd_1;noun fiy_1;prep $aroq_1;noun garob_1;noun >awosaT_1;adj_comp 
+1217#sir~_1;noun nAs_1;noun ka$af-i_1;verb 
+1218#baHov_2;noun daE~am_1;verb mAriyjuwAnA_1;noun Tib~iy~_1;adj 
+1219#jamiyE_1;noun_quant mubArAp_1;noun kurap_1;noun qadam_1;noun >aforiyqiy~_2;adj bator_1;noun bada>-a_1;verb 
+1220#majomuwEap_1;noun :_0;punc >aZohar_1;verb fiydoyuw_1;noun mirowaHiy~_1;adj {inoxafaD_1;verb 
+1221#bayoE_1;noun krAyoslir_1;noun_prop mumokin_1;adj 
+1222#ruwsiyA_1;noun_prop >adAn_1;verb Eamal_1;noun <irohAbiy~_1;adj EalaY_1;prep HAfilap_1;noun xArij_1;noun bayoruwt_1;noun_prop 
+1223#tikonuwluwjiyA_1;noun qado_1;part_verb HifoZ_1;noun dulofiyn_1;noun nahor_1;noun hinod_1;noun_prop 
+1224#<iyrobAS_1;noun_prop A380 swbyrjwmbw >aqolaE_1;verb 
+1225#qayoluwlap_1;noun kabiyr_1;adj faSol_3;noun 
+1226#saj~al_1;verb rA}id_1;noun faDA'_1;noun >unovaY_1;noun 
+1227#mawoqid_1;noun *ar~ap_1;noun Zahar-a_1;verb fiy_1;prep manozil_1;noun wilAyap_1;noun mut~aHid_1;adj 
+1228#EirAq_1;noun_prop >agolaq_1;verb Had~_2;noun maE_1;noun suwriyA_1;noun_prop <iyrAn_1;noun_prop 
+1229#nihAyap_1;noun muviyr_1;adj qalaq_1;noun min_1;prep ' *iy_2;noun_prop dybArtd ' 
+1230#xaT~aT_1;verb banok_1;noun fiyatonAmiy~_1;adj {ikotitAb_1;noun <idorAj_1;noun 
+1231#tuwyuwtA_1;noun_prop ssywn Hadiyqap_1;noun fiy_1;prep HayAp_1;noun vAniy_1;adj_num 
+1232#sawofa_1;part_fut Eamil-a_1;verb >wbAmA fiy_1;prep EAm_1;noun 2008_0;digit 
+1233#"_0;punc >agan~_2;noun >us~iy~_1;adj "_0;punc >ataY-i_1;verb >axiyr_1;adj <ilaY_1;prep diy_1;noun_prop fiy_1;prep diy_1;abbrev 
+1234#myrkl :_0;punc >awoqaf_1;verb <iyrAn_1;noun_prop 
+1235#saw~al_1;verb lAyok_1;noun_prop siytiy_1;noun_prop maw~al_1;verb muTolaq_1;adj nAr_1;noun kAn-u_1;verb murAhiq_1;noun 
+1236#saj~al_1;verb rA}id_1;noun faDA'_1;noun >unovaY_1;noun 
+1237#nafoT_1;noun Hamal-i_1;verb 58_0;digit $ 
+1238#>wbAmA >aEolan_1;verb Ean_1;prep muHAwalap_1;noun ri}Asap_1;noun 
+1239#>axobar_1;verb ra}iys_1;noun :_0;punc qayoluwlap_1;noun jay~id_1;adj nisobap_1;noun li-_1;prep 
+1240#Sirobiy~_1;noun rafaD-u_1;verb xuT~ap_1;noun >um~ap_1;noun mut~aHid_1;adj fiy_1;prep kuwsuwfuw_1;noun_prop 
+1241#>my$ munAqa$ap_1;noun <iTolAq_1;noun nAr_1;noun 
+1242#sajan-u_1;verb ,_0;punc >akal-u_1;verb sAHil_2;noun_prop EAj_2;noun_prop $ukuwlAtap_1;noun 
+1243#halo_1;part_interrog >amokan_1;verb wuvuwq_1;noun fiy_1;prep kuwriyA_1;noun_prop $amAliy~_1;adj ?_0;punc 
+1244#siyAHap_1;noun muta>ax~ir_1;adj fiy_1;prep masoqaT_2;noun ra>os_1;noun buw$_1;noun_prop 
+1245#{ixotibAr_2;noun {iEotiqAl_1;noun rA}id_1;noun faDA'_1;noun nAs_1;noun haz~ap_1;noun 
+1246#rajul_1;noun HaSal-u_1;verb EalaY_1;prep furoSap_1;noun vAniy_1;adj_num fiy_1;prep riHolap_1;noun faDA'_1;noun 
+1247#muDiy~_1;noun qudum_1;noun ,_0;punc {it~ixA*_1;noun qayoluwlap_1;noun ,_0;punc qAl-u_1;verb Eilom_1;noun 
+1248#>usobuwEiy~_1;adj nylsn sawofa_1;part_fut "_0;punc faqad-i_1;verb "_0;punc wajad-i_1;verb Tariyq_1;noun <ilaY_1;prep warA'_1;noun ?_0;punc 
+1249#rasom_1;noun bryv xaT~_2;noun jaw~iy~_1;adj matAE_1;noun tasab~ab_1;verb {irotibAk_1;noun 
+1250#<inoduwniysiy~_1;adj maE_1;noun <inofluwanozA_1;noun Tayor_1;noun mAt-u_1;verb 
+1251#sAnt_1;noun_prop luwiys_1;noun_prop {isotaEad~_1;verb tarofiyh_1;noun SuEuwd_1;noun 
+1252#madiynap_1;noun niyuwyuwrok_1;noun_prop qado_1;part_verb HaZor_1;noun jihAz_1;noun >ay~_1;noun_quant wud~_1;noun >avonA'a_1;noun Eubuwr_1;noun $AriE_1;noun 
+1253#daEA-u_1;verb Sabiy~_1;noun qatol_1;noun min_1;prep qibal_1;noun >um~_1;noun {isotasolam_1;verb 
+1254#,_0;punc *i}ob_1;noun ramAdiy~_1;adj ,_0;punc baEiyd_1;adj ,_0;punc EaraD_1;noun xaTar_1;noun EaraD_1;noun xaTar_1;noun ,_0;punc layosa_1;verb 
+1255#tam~-i_1;verb {ixotibAr_1;noun {isotA'_1;verb fA}iq_1;adj 5_0;digit 
+1256#$uroTap_1;noun briyTAniy~_1;adj {inotaqad_1;verb gArap_1;noun <irohAbiy~_1;adj 
+1257#sAkin_1;noun maqadiy$uw_1;noun_prop far~-i_1;verb min_1;prep {inofijAr_1;noun 
+1258#qunobulap_1;noun qatal-u_1;verb 18_0;digit fiy_1;prep HAfilap_1;noun Easokariy~_1;adj fiy_1;prep <iyrAn_1;noun_prop 
+1259#' wArywwyr ,_0;punc ' way_1;noun jaEal-a_1;verb mivAliy~_1;adj 
+1260#wilAyap_1;noun mut~aHid_1;adj EalaY_1;prep xilAf_1;noun maE_1;noun musAEid_1;noun rajul_1;noun diyn_1;noun 
+1261#>um~_1;noun EirAqiy~_1;adj yA}is_1;adj {iEotamad_1;verb EalaY_1;prep miyliy$iyA_1;noun HuSuwl_1;noun EalaY_1;prep musAEadap_1;noun 
+1262#tafoSiyl_1;noun kAmil_1;adj taqoriyr_1;noun {it~iHAd_1;noun >uwrub~iy~_1;adj Hawol_1;noun <iyrAn_1;noun_prop 
+1263#mugan~iy_1;noun EalaY_1;prep wayol_1;noun :_0;punc saEiyd_2;noun_prop >an~a_1;conj_sub kAn-u_1;verb EanaY-i_1;verb 
+1264#juwnoz_1;noun_prop wAjah_1;verb {ijotimAE_1;noun >uwrub~A_1;noun_prop 
+1265#biykohAm_1;noun_prop hadaf_1;noun sAEad_1;verb fawoz_1;noun {inotizAE_1;noun Haqiyqiy~_1;adj 
+1266#giyniyA_1;noun_prop :_0;punc makotab_1;noun taxoTiyT_1;noun qariyb_1;adj min_1;prep balad_1;noun >aEolan_1;verb HAlap_1;noun TAri}ap_1;noun 
+1267#namA-u_1;verb {iqotiSAd_1;noun yAbAn_1;noun_prop 
+1268#qAm-u_1;verb quw~ap_1;noun HifoZ_1;noun salAm_1;noun tAbiE_1;adj >um~ap_1;noun mut~aHid_1;adj gArap_1;noun Hay~_2;noun faqiyr_1;adj fiy_1;prep hAytiy_1;noun_prop 
+1269#bada>-a_1;verb Eamal_1;noun EalaY_1;prep qabow_1;noun ba*or_2;noun fiy_1;prep quTob_1;noun $amAliy~_1;adj 
+1270#$abakap_1;noun {ijotimAEiy~_1;adj *ahab-a_1;verb maHomuwl_1;noun 
+1271#qaToE_1;noun tajomiyl_1;noun ,_0;punc Haliyq_1;noun ,_0;punc taqodiym_1;noun maEoluwm_1;noun wiqAyap_1;noun min_1;prep sakotap_1;noun dimAgiy~_1;adj 
+1272#{isotA'_1;verb qal~al_1;verb min_1;prep xaTar_1;noun mawot_1;noun fiy_1;prep maraD_1;noun qalob_1;noun ,_0;punc wajad-i_1;verb dirAsap_1;noun 
+1273#tuwmAs_1;noun_prop kuwk_1;noun_prop damoj_1;noun maE_1;noun mytrAfyl 
+1274#nAb_1;noun Tariyq_1;noun <ilaY_1;prep mihonap_1;noun nAjiH_1;adj 
+1275#qaroyap_1;noun dafon_1;noun 100_0;digit buwSap_1;noun min_1;prep valoj_1;noun 
+1276#>uwbirA_1;noun >aEolan_1;verb Ean_1;prep {ixotiyAr_1;noun nAdiy_1;noun kitAb_1;noun jadiyd_1;adj 
+1277#Eilom_1;noun Hub~_1;noun ._0;punc ._0;punc ._0;punc $ahowap_1;noun 
+1278#nwrvAstr >alogaY_1;verb riHolap_1;noun jaw~iy~_1;adj ,_0;punc >agolaq_1;verb madorasap_1;noun 
+1279#qayoluwlap_1;noun qado_1;part_verb kAn-u_1;verb jay~id_1;adj qalob_1;noun 
+1280#ray~An_2;noun_prop >uwniyl_1;noun_prop jaraH-a_1;verb {ibon_1;noun Sadiyq_1;adj 
+1281#majozarap_1;noun Eiyd_1;noun Hub~_1;noun fiy_1;prep krAyoslir_1;noun_prop 
+1282#bada>-a_1;verb muHAkamap_1;noun tafojiyr_1;noun madoriyd_1;noun_prop 
+1283#qitAl_1;noun bada>-a_1;verb EalaY_1;prep laqAH_1;noun fayoruws_1;noun waram_1;noun Haliym_2;noun ba$ariy~_1;adj 
+1284#muHar~ik_1;noun quroS_1;noun makosab_1;noun >uwrub~iy~_1;adj 
+1285#$ariyk_1;noun jiyms_1;noun_prop brAwn_1;noun_prop >amokan_1;verb HuSuwl_1;noun EalaY_1;prep $ayo'_1;noun li-_1;prep 
+1286#tam~-i_1;verb <ilogA'_1;noun EaroD_1;noun tiloqA}iy~_1;adj 
+1287#mamolakap_1;noun mut~aHid_1;adj fAxir_1;adj SAniE_1;noun barobariy~_2;adj :_0;punc "_0;punc SanoE_1;noun fiy_1;prep Siyn_1;noun_prop "_0;punc ?_0;punc 
+1288#qayoluwlap_1;noun >avonA'a_1;noun Eamal_1;noun qado_1;part_verb qal~al_1;verb min_1;prep maxATir_1;noun qalob_1;noun 
+1289#raqom_1;noun 1_0;digit fluwriydA_1;noun_prop najA-u_1;verb rawob_1;noun sAHap_1;noun ,_0;punc Darobap_1;noun mutatAliy_1;adj 16_0;digit 
+1290#J.K. rwlynj EalAmap_1;noun buqoEap_1;noun min_1;prep ' buwtir_1;noun_prop ' nihAyap_1;noun 
+1291#grwnhwlm >axa*-u_1;verb qiyAdap_1;noun rA}id_1;adj 
+1292#hAward_1;noun_prop {inotaqad_1;verb >wbAmA fiy_1;prep siyAsap_1;noun EirAq_1;noun_prop 
+1293#mAniylA_1;noun_prop talomiyH_1;noun muwAfaqap_1;noun fidoyap_1;noun 
+1294#baTal_1;noun mwrAy jay~id_1;adj jid~_1;noun kiym_1;noun_prop 
+1295#G7: AlzlAjAt yin_1;noun min_1;prep qibal_1;noun ,_0;punc {ixotAr_1;verb yuwAn_1;noun xuruwj_1;noun 
+1296#gAnim_2;noun "_0;punc kAn-u_1;verb srybrynytsA nAjiy_2;adj "_0;punc 
+1297#qaToE_1;noun fawoDaY_1;noun <inojAz_1;noun >amor_1;noun 
+1298#>um~_1;noun :_0;punc lwhAn faEal-a_1;verb "_0;punc EaZiym_1;adj "_0;punc fiy_1;prep <iEAdap_1;noun ta>ohiyl_1;noun 
+1299#min_1;prep fAz-u_1;verb fiy_1;prep grAmys ?_0;punc 
+1300#liybiy~_1;noun difAE_1;noun rafaE-a_1;verb qADiy_1;noun ,_0;punc waqaE-a_1;verb 
+1301#tafokiyk_1;noun xAtam_1;noun Euvuwr_1;noun EalaY_1;prep manozil_1;noun jadiyd_1;adj 
+1302#grwnhwlm mA_4;conj_sub taHaT~um_1;noun swlbrg 
+1303#' nwrbyt ' maDiyEap_1;noun lmwrfy 
+1304#bidAyap_1;noun Saxoriy~_1;adj maTAr_1;noun bAnokuwk_1;noun_prop 
+1305#12_0;digit qatiyl_1;noun fiy_1;prep tafojiyr_1;noun miyniy_1;noun bAS_1;noun lubonAniy~_1;adj 
+1306#{id~iEA'_1;noun taEo*iyb_1;noun jinosiy~_1;adj Darab_1;verb jayo$_1;noun ruwsiy~_1;adj 
+1307#myjA -_0;punc AljrAbyAt mar~ap_1;noun wAHid_1;noun_num jAb-u_1;verb >usoturAliyA_1;noun_prop 
+1308#ruwbirot_1;noun_prop muroduwx_1;noun_prop sir~_1;noun tyfw 
+1309#taHodiyv_1;noun 1_0;digit -_0;punc taHaT~um_1;noun TA}irap_1;noun fiy_1;prep maTAr_1;noun muwsokuw_1;noun_prop ,_0;punc lA_1;part_neg rAkib_1;noun 
+1310#fayoruws_1;noun waram_1;noun Haliym_2;noun ba$ariy~_1;adj taToEiym_1;noun >avAr_1;verb niqA$_1;noun sAxin_1;adj fiy_1;prep >amoriykA_1;noun_prop 
+1311#tilofizyuwn_1;noun maHokamap_1;noun :_0;punc mut~aham_1;noun qAtil_1;adj HakaY-i_1;verb lajonap_1;noun muHal~af_1;noun qiS~ap_1;noun Hub~_1;noun 
+1312#mawoqiE_1;noun <ibolAg_1;noun Ean_1;prep muxAlafap_1;noun 
+1313#bada>-a_1;verb fiy_1;prep waqot_1;noun muta>ax~ir_1;adj ,_0;punc taqAEud_1;noun ganiy~_1;adj 
+1314#ra}iys_1;noun waziyr_1;noun SuwmAliy~_1;adj taEah~ad_1;verb jalob_1;noun <isolAmiy~_1;noun <ilaY_1;prep EadAlap_1;noun 
+1315#Eahor_1;noun >akovar_2;adj_comp $uyuwE_1;noun min_1;prep muEoZam_1;noun_quant tafokiyr_1;noun 
+1316#>anA_1;pron niykuwl_1;noun_prop smiyv_1;noun_prop mu$aj~iE_1;noun Had~Ad_2;noun fiy_1;prep faDA'_1;noun <ilikotruwniy~_1;adj 
+1317#muDAd~_1;noun Hayawiy~ap_1;noun kytyk >akovar_2;adj_comp xuTuwrap_1;noun min_1;prep fikor_1;noun 
+1318#waqot_1;noun Hajoz_1;noun riHolap_1;noun 
+1319#' blAzyng <inojilz_1;noun_prop ' li_1;prep PS3 fa$al_1;noun fiy_1;prep {irotifAE_1;noun 
+1320#kuwriyA_1;noun_prop $amAliy~_1;adj musAEadap_1;noun Talab_1;noun mumATalap_1;noun muHAdavap_1;noun 
+1321#rasom_1;noun kAryktwry ,_0;punc $abakap_1;noun ,_0;punc ra>os_1;noun ,_0;punc >adonaY_2;adj_comp 
+1322#mAliyziyA_1;noun_prop ja*ab-i_1;verb quw~ap_1;noun sA}iH_1;noun 
+1323#>anA_1;pron niykuwl_1;noun_prop smiyv_1;noun_prop jaziyrap_1;noun bahAmA_1;noun_prop manozil_1;noun DabaT-ui_1;verb 
+1324#>ndrwmydA $Arak_1;verb fiy_1;prep taSAdum_1;noun Almjrp 
+1325#ruwAnodA_1;noun_prop daras-u_1;verb 3_0;digit -_0;punc kayod_1;noun Had~_1;noun >usorap_1;noun 
+1326#wylknswn saj~al_1;verb raqom_1;noun qiyAsiy~_1;adj fiy_1;prep fawoz_1;noun 
+1327#muhanodis_1;noun jayo$_1;noun qAl-u_1;verb dAm_1;verb |min_1;adj 
+1328#faranosA_1;noun_prop :_0;punc qaboD_1;noun EalaY_1;prep mu$otabah_1;adj bi_1;prep qAEidap_1;noun_prop 
+1329#najA-u_1;verb musal~aH_1;adj yuwtA_1;noun_prop srybrynytsA 
+1330#<ino$A'_1;noun buwm_1;noun kAmil_1;adj fiy_1;prep $ahor_1;noun ?_0;punc 
+1331#hinod_1;noun_prop {ixotibAr_1;noun SAruwx_1;noun nawawiy~_1;adj jadiyd_1;adj 
+1332#G7 taw~_1;noun t$AyonA_1;noun_prop :_0;punc >ayas_1;noun <kshAnj ryt gariyb_1;adj 
+1333#hAtuwn_1;noun_prop yad_1;noun mar~ap_1;noun >uxoraY_1;adj EunowAn_1;noun <ib~_1;noun_prop mar~ap_1;noun >uxoraY_1;adj 
+1334#brnAnky :_0;punc {iqotiSAd_1;noun SiH~iy~_1;adj ,_0;punc l`kino_1;conj ._0;punc ._0;punc ._0;punc 
+1335#mykylswn ,_0;punc sA*rlAnd HiS~ap_1;noun raSAS_1;noun 
+1336#qayoluwlap_1;noun hiya_1;pron jay~id_1;adj qalob_1;noun ,_0;punc wajad-i_1;verb dirAsap_1;noun 
+1337#>amiyr_1;noun mAsAkw mu&al~if_1;noun :_0;punc lA_1;part_neg dam~-u_1;verb 
+1338#{isotaxodam_1;verb TAlib_1;noun >amo_1;conj -_0;punc nagA-u_1;verb fiy_1;prep maqAl_1;noun 
+1339#mAliyziyA_1;noun_prop >aTolaq_1;verb Hamolap_1;noun siyAHiy~_1;adj 
+1340#dirAsap_1;noun :_0;punc fajowap_1;noun <inotironit_1;noun_prop fiy_1;prep >aforiyqiyA_1;noun_prop HuSuwl_1;noun EalaY_1;prep >awosaE_2;adj_comp 
+1341#,_0;punc fawoDaY_1;noun safar_1;noun ,_0;punc ragom_1;noun ,_0;punc kaviyf_1;adj ,_0;punc tasAquT_1;noun valoj_1;noun ,_0;punc Darobap_1;noun ,_0;punc mamolakap_1;noun mut~aHid_1;adj 
+1342#bAwolA_1;noun_prop Eabod_1;noun_prop :_0;punc "_0;punc lamo_1;part_neg kAn-u_1;verb >abad_1;noun fiy_1;prep HAlap_1;noun suk~ar_1;noun "_0;punc 
+1343#tafa$~iy_1;noun AlsAlmwnylA rajaE-i_1;verb <ilaY_1;prep zubod_1;noun fuwl_1;noun suwdAniy~_1;adj 
+1344#buwtiyn_1;noun_prop :_0;punc quw~ap_1;noun wilAyap_1;noun mut~aHid_1;adj Eaz~az_1;verb TumuwH_1;noun nawawiy~_1;adj 
+1345#kA$if_1;noun nywk EiSAbap_1;noun niyuwyuwrok_1;noun_prop ,_0;punc qAl-u_1;verb maso&uwl_1;noun 
+1346#{inofijAr_1;noun qunobulap_1;noun muzodawij_1;adj qatal-u_1;verb valAv_1;noun_num fiy_1;prep lubonAn_1;noun_prop 
+1347#dAfydynkw xArij_1;noun ba*or_2;noun mutanAvir_1;adj 
+1348#>wbAmA :_0;punc >anA_1;pron rakaD-u_1;verb ri}Asap_1;noun 
+1349#bAtrswn ,_0;punc Hi*A'_1;noun ,_0;punc <isokutolanodA_1;noun_prop ,_0;punc Hat~aY_3;part ,_0;punc fiykotuwriy~_1;adj 
+1350#>amoriykiy~_1;noun >aforiyqiy~_1;adj hum_1;pron mutabar~iE_1;noun EuDow_1;noun fiy_1;prep h`*A_1;pron_dem yawom_1;noun ,_0;punc l`kino_1;conj mA*A_1;pron_interrog Ean_1;prep nuxAE_1;noun EaZiym_1;adj ?_0;punc 
+1351#dirAsap_1;noun :_0;punc qayoluwlap_1;noun EalaY_1;prep ra>os_1;noun Eamal_1;noun qado_1;part_verb sAEad_1;verb qalob_1;noun 
+1352#giyniyA_1;noun_prop EASimap_1;noun hAdi}_2;adj <ilaY_1;prep Had~_1;noun kabiyr_1;adj muwjib_1;noun HaZor_1;noun tajaw~ul_1;noun ,_0;punc qAnuwn_1;noun zawojiy~_1;adj 
+1353#bwss ,_0;punc nA}im_1;adj ,_0;punc Ean_1;prep ,_0;punc fikorap_1;noun ,_0;punc sabab_1;noun ,_0;punc samAH_1;noun ,_0;punc EAmil_2;noun ,_0;punc >axa*-u_1;verb ,_0;punc qayoluwlap_1;noun 
+1354#<idAnap_1;noun muEal~im_1;noun muEal~im_1;noun $arar_1;noun niqA$_1;noun tikonuwluwjiyA_1;noun 
+1355#sinogAfuwrap_1;noun_prop mazaH-a_1;verb kuroniy$_1;noun wAjihap_1;noun baHoriy~_1;adj 
+1356#TAlab_1;verb ruwAnodA_1;noun_prop Had~_2;noun valAv_1;noun_num Tifol_1;noun 
+1357#sAmswnj {isotaqar~_1;verb daEowaY_1;noun taHodiyd_1;noun siEor_1;noun 
+1358#rajul_1;noun diyn_1;noun rAdiykAliy~_1;adj Sador_1;noun fiy_1;prep <iyrAn_1;noun_prop ,_0;punc >aSar~_1;verb wilAyap_1;noun mut~aHid_1;adj 
+1359#taqoriyr_2;noun :_0;punc taEoyiyn_1;noun hArofarod_1;noun_prop tasomiyap_1;noun >aw~al_2;adj_num ra}iys_1;noun >unovaY_1;adj 
+1360#EirAq_1;noun_prop ka$af-i_1;verb naq~Ab_1;noun Ean_1;prep xuT~ap_1;noun >amoniy~_1;adj jadiyd_1;adj 
+1361#jAmiEap_1;noun qad~am_1;verb daEom_1;noun madorasap_1;noun niyuw_1;noun_prop >wrlyAnz 
+1362#tasab~ab_1;verb EASifap_1;noun buqoEap_1;noun ,_0;punc Tariyq_1;noun jaliydiy~_1;adj 
+1363#kuwriyA_1;noun_prop januwbiy~_1;adj >aTolaq_1;verb nAr_1;noun EalaY_1;prep 10_0;digit >ajonabiy~_2;noun 
+1364#EA$iq_1;noun mA_1;pron_rel qabol_1;noun tAriyx_1;noun wajad-i_1;verb muqofal_1;adj fiy_1;prep {iHotiDAn_1;noun >abadiy~_1;adj 
+1365#rasom_1;noun bayAniy~_1;adj :_0;punc halo_1;part_interrog madiynap_1;noun hiya_1;pron >aEojaf_1;adj >awo_1;conj xumuwl_1;noun ?_0;punc 
+1366#{isotajowab_1;verb zaEiym_1;noun biyruw_1;noun_prop fiy_1;prep majozarap_1;noun majozarap_1;noun 
+1367#qA}id_1;noun wilAyap_1;noun mut~aHid_1;adj :_0;punc EirAq_1;noun_prop lA_1;part_neg yA}is_1;adj 
+1368#ra}iys_1;noun waziyr_1;noun >usoturAliy~_1;adj waqaf-i_1;verb warA'_1;noun hujuwm_1;noun >wbAmA 
+1369#mArid_1;noun >agar~_1;noun {inotiEA$_1;noun fiy_1;prep nuzohap_1;noun niyuw_1;noun_prop AwrlyAnz ?_0;punc 
+1370#systAs qado_1;part_verb qal~al_1;verb min_1;prep maxATir_1;noun maraD_1;noun qalob_1;noun 
+1371#,_0;punc >uwriyguwn_1;noun_prop ,_0;punc snwrkylr ,_0;punc maxaT-au_1;verb ,_0;punc b_1;abbrev ,_0;punc qAriD_2;noun ,_0;punc tajoribap_1;noun ,_0;punc fiy_1;prep wajoh_1;noun 
+1372#btrAyws tawal~aY_1;verb qiyAdap_1;noun fiy_1;prep EirAq_1;noun_prop 
+1373#6_0;digit qatiyl_1;noun baEod_1;noun yuwtA_1;noun_prop maw~al_1;verb <iTolAq_1;noun nAr_1;noun hayajAn_1;noun 
+1374#simAk_1;noun qiro$_1;noun qatal-u_1;verb >arobaE_1;noun_num $axoS_1;noun fiy_1;prep "_0;punc mumil~_1;adj "_0;punc EAm~_1;adj 
+1375#yawom_1;noun taHoTiym_1;noun qiyAsiy~_1;adj EalaY_1;prep $AriE_1;noun qid~iys_1;noun 
+1376#qAl-u_1;verb kuwmiydiy~_1;adj >an~a_1;conj_sub Hukuwmap_1;noun sakat-u_1;verb nAqid_1;noun 
+1377#Alrwkrz fA}iz_1;noun kabiyr_1;adj fiy_1;prep jA}izap_1;noun baraY-i_1;verb 
+1378#qatal-u_1;verb zaEiym_1;noun madorasap_1;noun sAmobA_1;noun qabol_1;noun krnfAl riyuw_1;noun_prop 
+1379#tAyowAn_1;noun_prop ' say~id_1;noun naZiyf_1;adj ' mut~aham_1;adj ,_0;punc xaTowap_1;noun <ilaY_1;prep >asofal_1;adj_comp 
+1380#{imora>ap_1;noun HArab_1;verb HifAZ_1;noun EalaY_1;prep sA}iq_1;noun sakorAn_1;noun fiy_1;prep sijon_1;noun 
+1381#daEA-u_1;verb majomuwEap_1;noun qAEidap_1;noun_prop <ilaY_1;prep $an~_1;noun hajomap_1;noun EalaY_1;prep nafoT_1;noun >amoriykiy~_1;adj 
+1382#{ibon_1;noun Eam~_1;noun :_0;punc kAn-u_1;verb musal~aH_1;adj najAp_1;noun srybrynytsA 
+1383#turokmAnisotAn_1;noun_prop Sawot_1;noun ra}iys_1;noun 
+1384#fiymA_1;conj_sub waliy-i_1;verb baEoD_1;noun_quant naSiyHap_1;noun Al~a*iy_1;pron_rel wajab-i_1;verb {it~ixA*_1;noun <ilaY_1;prep qalob_1;noun ._0;punc ._0;punc ._0;punc 
+1385#10_0;digit lA_1;part_neg fAt-u_1;verb Dariybap_1;noun EaT~al_1;verb 
+1386#$uroTap_1;noun >afosad_1;verb {iHotijAj_1;noun kuwsuwfuw_1;noun_prop 
+1387#miys_1;noun jaEal-a_1;verb baro$iluwnap_1;noun_prop firoqap_1;noun Eawodap_1;noun 
+1388#qafoz_1;noun *akar-u_1;verb fiy_1;prep HAdiv_1;noun EaraDiy~_1;adj juroEap_1;noun zA}id_1;noun min_1;prep muxad~ir_1;noun 
+1389#kAtAnyA EAqab_1;verb EalaY_1;prep Eunof_1;noun mirowaHap_1;noun 
+1390#saj~al_1;verb <ysynbAyfA raqom_1;noun qiyAsiy~_1;adj EAlamiy~_1;adj Ei$oruwn_1;adj_num 
+1391#mu$ar~iE_1;noun {inofijAr_1;noun <idArap_1;noun gi*A'_1;noun Eaq~Ar_1;noun murAqabap_1;noun salAmap_2;noun_prop muxad~ir_1;noun 
+1392#qayoluwlap_1;noun EAdiy~_1;adj jaEal-a_1;verb qalob_3;noun SiH~iy~_1;adj 
+1393#tawaq~af_1;verb jaliyd_1;noun Earabap_1;noun bArid_1;adj 
+1394#wilAyap_1;noun mut~aHid_1;adj musal~aH_1;adj "_0;punc kAn-u_1;verb srybrynytsA nAjiy_2;adj "_0;punc 
+1395#EafA-u_1;verb EalaY_1;prep zaman_1;noun TaEAm_1;noun Tifol_1;noun wajad-i_1;verb EalaY_1;prep raf~_2;noun 
+1396#sA}iq_1;noun $AHinap_1;noun saHob_1;noun {it~aham_1;verb sariqap_1;noun say~Arap_1;noun 
+1397#buw$_1;noun_prop :_0;punc HAn-i_1;verb waqot_1;noun kuwnojris_1;noun_prop daEom_1;noun xuT~ap_1;noun TAqap_1;noun 
+1398#junodiy~_1;noun mamolakap_1;noun mut~aHid_1;adj taTohiyr_1;noun EirAq_1;noun_prop min_1;prep {iEotidA'_1;noun 
+1399#dA_1;noun_prop naq~aH_1;verb taHo*iyr_1;noun tasomiyap_1;noun EalaY_1;prep muDAd~_1;noun Hayawiy~ap_1;noun kytyk 
+1400#tw$ybA bwrtyj R400 
+1401#januwb_1;noun >aforiyqiyA_1;noun_prop taHaz~un_1;noun >dylAyd tAmbw 
+1402#>amokan_1;verb <fAkwys Eawodap_1;noun <ilaY_1;prep dAr_1;noun baEod_1;noun {inofijAr_1;noun nabAtiy~_1;adj 
+1403#juv~ap_1;noun >anA_1;pron niykuwl_1;noun_prop smiyv_1;noun_prop kaman-u_1;verb fiy_1;prep Tay~_1;noun nisoyAn_1;noun 
+1404#muEal~im_1;noun sAbiq_1;adj TaraH-a_1;verb EalaY_1;prep bilaY_1;noun way_1;noun 
+1405#faranosA_1;noun_prop rafaD-u_1;verb muHaq~iq_1;noun ruwAnodiy~_1;adj 
+1406#qado_1;part_verb baqiy-a_1;verb qayoluwlap_1;noun yawomiy~_1;adj Tabiyb_1;noun qalob_1;noun 
+1407#hyjly ,_0;punc guwnozAliys_1;noun_prop >ad~aY_1;verb fiy_1;prep mAliyziyA_1;noun_prop 
+1408#jrAm_1;noun musotaEid~_1;adj qabuwl_1;noun fA}iz_1;noun 
+1409#junayoh_1;noun lano_1;part_neg {inoxafaD_1;verb HAlap_1;noun Armstrwng 
+1410#$uroTap_1;noun muEAd_1;adj tawoHiyd_1;noun bado'_1;noun jawolap_1;noun Hawol_1;noun EAlam_1;noun fiy_1;prep mAyuw_1;noun_prop 
+1411#ra}iys_1;noun Hizob_1;noun turokumAn_1;noun_prop yamiyn_1;noun yamiyn_1;noun ra}iys_1;noun jadiyd_1;adj 
+1412#yin_1;noun >anod_1;noun_prop >wkwr HaSal-u_1;verb EalaY_1;prep daEowap_1;noun min_1;prep kul~_1;noun_quant najom_1;noun 
+1413#muTAlabap_1;noun sfyndAl muzodawij_1;adj *ahabiy~_1;adj 
+1414#Earabap_1;noun <iTolAq_1;noun nAr_1;noun murab~aE_1;adj tarak-u_1;verb 6_0;digit qatiyl_1;noun ,_0;punc mA_1;pron_rel fiy_1;prep *`lika_1;pron_dem musal~aH_1;adj 
+1415#{inofijAr_1;noun jisor_1;noun tawaq~uf_1;noun I-95 Harakap_1;noun muruwr_1;noun 
+1416#>amo_1;conj ,_0;punc {ibon_1;noun ,_0;punc TaEon_1;noun ,_0;punc EalaY_1;prep maqorabap_1;noun min_1;prep ,_0;punc $$wl 
+1417#muqotaTaf_1;noun :_0;punc siyAsiy~_2;noun SaHAfap_1;noun 
+1418#kuwriyA_1;noun_prop $amAliy~_1;adj HaSal-u_1;verb EalaY_1;prep "_0;punc mAl_1;noun {iHotirAm_1;noun "_0;punc 
+1419#bywnsy fiy_1;prep bykyny mA_4;conj_sub siy_1;abbrev giTA'_1;noun mAy~uwh_1;noun namuw*aj_1;noun 
+1420#maHab~ap_1;noun maE_1;noun kul~_1;noun_quant mA_1;pron_rel ba*al-u_1;verb min_1;prep ._0;punc ._0;punc ._0;punc dimAg_1;noun 
+1421#$wflyftrz ' {ixotiyAr_1;noun :_0;punc $uroTap_1;noun >awo_1;conj tiy_1;abbrev $iyrt_1;noun min_1;prep EAr_1;noun 
+1422#maso&uwl_1;noun kuwbiy~_1;adj :_0;punc wiyb_1;noun_prop "_0;punc kwlt bar~iy~_1;adj "_0;punc 
+1423#baTiy'_1;adj ' muwsiyqaY_1;noun kalimap_1;noun ' 
+1424#baHoriy~ap_1;noun makosiykiy~_1;adj sAEad_1;verb fiy_1;prep baHov_1;noun Ean_1;prep muhanodis_1;noun wilAyap_1;noun mut~aHid_1;adj 
+1425#smiyv_1;noun_prop Tifol_1;noun qado_1;part_verb lA_1;part_neg kAn-u_1;verb wiEA'_1;noun min_1;prep *ahab_1;noun 
+1426#|xir_1;adj_comp taHodiyv_1;noun EalaY_1;prep >aham~_2;adj_comp qiS~ap_1;noun EAlim_1;noun 
+1427#Darob_1;noun waraq_1;noun fiy_1;prep san~_1;noun murAhiq_1;adj fiy_1;prep gayobuwbap_1;noun 
+1428#tymbw bar~-i_1;verb ladaY_1;noun Hulom_1;noun jrAm_1;noun 
+1429#gus~_1;noun Hi*A'_1;noun riyADiy~_1;adj taHodiyd_1;noun mawoqiE_1;noun maE_1;noun DagoT_1;noun EalaY_1;prep zir~_1;noun 
+1430#mudaw~an_1;noun <idowArodz_1;noun_prop mugAzil_1;adj <inohA'_1;noun Hamolap_1;noun 
+1431#briyTAniyA_1;noun_prop tam~-i_1;verb taroHiyl_1;noun min_1;prep SuwmAl_1;noun_prop taHota_1;noun qAnuwn_1;noun <irohAb_1;noun 
+1432#taHodiyv_1;noun Hawol_1;noun >aham~_2;adj_comp qiS~ap_1;noun EAlim_1;noun 
+1433#muxad~ir_1;noun saraTAn_1;noun vadoy_1;noun Euwd_1;noun >amal_1;noun 
+1434#EAmil_2;noun qadiym_1;adj >aZohar_1;verb klywbAtrA lamo_1;part_neg kAn-u_1;verb jamAl_2;noun 
+1435#ywtwb >aEoTaY_1;verb rad~_1;noun fiEol_1;noun mufAji}_1;adj 
+1436#waSal-i_1;verb <ilaY_1;prep 22_0;digit buwSap_1;noun min_1;prep valoj_1;noun fiy_1;prep tawaq~uE_1;noun 
+1437#fiyrodir_1;noun_prop jaEal-a_1;verb 10_0;digit rajul_1;noun >jAks dafoE_1;noun vaman_1;noun 
+1438#{it~iHAd_1;noun >uwrub~iy~_1;adj >adAn_1;verb riHolap_1;noun gayor_1;noun qAnuwniy~_1;adj "_0;punc siy~_1;noun "_0;punc 
+1439#taqoriyr_1;noun rabaT-ui_1;verb ba$ar_1;noun bAlAHtrAr EAlamiy~_1;adj 
+1440#wikAlap_1;noun duwaliy~_1;adj TAqap_1;noun *ar~iy~_1;adj xafaD-i_1;verb musAEadap_1;noun <iyrAniy~_1;adj 
+1441#suwrofiy_1;noun_prop :_0;punc ty$ >adAp_1;noun fiy_1;prep san~_1;noun murAhiq_1;adj Al~a*iy_1;pron_rel rajaE-i_1;verb tAriyx_1;noun {iEotidA'_1;noun 
+1442#{ixotirAq_1;noun saraTAn_1;noun vadoy_1;noun <inoqA*_1;noun 1000_0;digit {imora>ap_1;noun sanawiy~_1;adj 
+1443#buqoEap_1;noun siyAHiy~_1;adj qAwam_1;verb jA*ibiy~ap_1;noun ,_0;punc l`kino_1;conj layosa_1;verb taqad~um_1;noun 
+1444#>akobar_2;adj_comp 20_0;digit wakiyl_1;noun muHotamal_1;adj nafol_1;noun 
+1445#saj~al_1;verb siyAHap_1;noun EAlamiy~_1;adj fiy_1;prep EAm_1;noun 2006_0;digit 
+1446#>a_2;part_interrog $aHon_1;noun $ 470_0;digit Haqiybap_1;noun <iDAfiy~_1;adj 
+1447#EAd-u_1;verb kaw~ar_1;verb <ilaY_1;prep dA}irap_1;noun fA}iz_1;noun 
+1448#>aqodam_1;verb SaHiyfap_1;noun fiy_1;prep EAlam_1;noun mawojuwd_1;adj |n_1;noun EalaY_1;prep <inotironit_1;noun_prop faqaT_1;adv 
+1449#yAbAniy~_1;adj ,_0;punc Huwt_1;noun ,_0;punc >afAr_1;verb ,_0;punc <ilaY_1;prep dAxil_1;noun ,_0;punc >ntArktykA 
+1450#waviyqap_1;noun {it~iHAd_1;noun >uwrub~iy~_1;adj :_0;punc qunobulap_1;noun <iyrAniy~_1;adj lA_1;part_neg >amokan_1;verb waqof_1;noun 
+1451#Hav~-u_1;verb wilAyap_1;noun mut~aHid_1;adj EalaY_1;prep qiyAdap_1;noun Eamal_1;noun "_0;punc >axoDar_1;adj "_0;punc 
+1452#maEorifap_1;noun mA_4;conj_sub <i*A_1;conj_sub kAn-u_1;verb madiynap_1;noun hiya_1;pron wAHid_1;noun_num min_1;prep >aEolaY_2;adj_comp 10_0;digit >aSolaH_2;adj_comp wilAyap_1;noun mut~aHid_1;adj >awo_1;conj fAtst 
+1453#li-_1;prep fiy_1;prep mA_1;pron_rel qabol_1;noun ka>os_1;noun EAlam_1;noun <iSAbap_1;noun taxowiyf_1;noun 
+1454#jadiyd_1;adj saraTAn_1;noun saraTAn_1;noun <inoqA*_1;noun >alof_1;noun_num HayAp_1;noun sanawiy~_1;adj 
+1455#mu*an~ab_1;noun sAbiq_1;adj mu*onib_1;adj fiy_1;prep muxaT~aT_1;noun Suwrap_1;noun EAriy_1;adj 
+1456#Taf~Ay_1;noun Hariyq_1;noun juzo'_1;noun min_1;prep majomuwE_1;noun tanofiy*_1;noun tiyniysiy_1;noun_prop 
+1457#mu&as~is_1;noun EAd-u_1;verb <ilaY_1;prep diyl_1;noun_prop hylm 
+1458#t$Arolz_1;noun_prop jybswn >axa*-u_1;verb marokaz_1;noun >aw~al_2;adj_num 
+1459#DAbiT_1;noun sAbiq_1;adj $uroTap_1;noun Huduwdiy~_1;adj taEar~aD_1;verb Darob_1;noun fiy_1;prep sijon_1;noun 
+1460#"_0;punc SanoE_1;noun fiy_1;prep Siyn_1;noun_prop "_0;punc <rks baEoD_1;noun_quant Almtswqyn barobariy~_2;adj 
+1461#qaroyap_1;noun stwnhnj EAmil_2;noun wajad-i_1;verb 
+1462#min_1;prep huwa_1;pron >amiyr_1;noun frydryk fuwn_1;noun_prop {inohAl_1;verb ?_0;punc 
+1463#>aHodav_1;verb fawod_1;noun <id~_1;noun -_0;punc ' baTATA_1;noun faDA'_1;noun ' 
+1464#>avoyuwbiyA_1;noun_prop {isotaEad~_1;verb >alofiy~_1;adj kul~_1;noun_quant mA_1;pron_rel ladaY_1;noun 
+1465#xabar_1;noun jay~id_1;adj Ean_1;prep mutasal~il_1;noun :_0;punc qado_1;part_verb qal~al_1;verb qayoluwlap_1;noun min_1;prep xaTar_1;noun <iSAbap_1;noun mu$okilap_1;noun fiy_1;prep qalob_1;noun 
+1466#snwbyrdz taqoSiyr_1;noun <iqAmap_1;noun fluwriydA_1;noun_prop 
+1467#fawoz_1;noun (_0;punc Hafol_1;noun )_0;punc tAriyx_1;noun maE_1;noun $uroTap_1;noun 
+1468#valoj_1;noun bada>-a_1;verb ,_0;punc tarAkum_1;noun vaqiyl_1;adj mutawaq~aE_1;adj 
+1469#jit_1;noun_prop taqal~ab_1;verb fiy_1;prep EASifap_1;noun valojiy~_1;adj ,_0;punc lA_3;verb_pseudo $ayo'_1;noun may~it_1;noun 
+1470#daEowap_1;noun maHomuwm_1;noun 911_0;digit fiy_1;prep qaDiy~ap_1;noun ray~An_2;noun_prop >uwniyl_1;noun_prop 
+1471#najAH_1;noun dwrAnt {inoTalaq_1;verb min_1;prep gAtwrs 
+1472#xAriq_1;adj EAlim_1;noun fiy_1;prep daworiy~_2;noun rA}id_1;noun faDA'_1;noun 
+1473#qAm-u_1;verb mu&as~is_1;noun ywtwb taqosiym_1;noun mabolag_1;noun 650_0;digit miloyuwn_1;noun_num duwlAr_1;noun 
+1474#>um~ap_1;noun >aforiyqiy~_2;adj >amal-a_1;verb wubiy_1;noun_prop >amokan_1;verb >ano_1;conj_sub sAEad_1;verb 
+1475#mutaqad~im_1;adj EalaY_1;prep sit~_1;noun_num nuqoTap_1;noun 
+1476#muHAmiy_1;noun {isotawolaY_1;verb EalaY_1;prep jaziyrap_1;noun bahAmA_1;noun_prop smiyv_1;noun_prop 
+1477#kAn-u_1;verb EaroD_1;noun suwbar_2;noun_prop >amiyr_1;noun kA$if_3;adj jid~_1;noun ?_0;punc 
+1478#klyjstrz baHav-a_1;verb Ean_1;prep wadAE_1;noun Tawiyl_1;adj 
+1479#sanap_1;noun Eamiyq_1;adj jid~_1;noun Hat~aY_1;prep valoj_1;noun 
+1480#dirAsap_1;noun :_0;punc xatom_1;noun >unovaY_1;adj min_1;prep SaEob_1;adj <iroDA'_1;noun Hawol_1;noun zamiyl_1;noun 
+1481#rwndwb :_0;punc {iHotijAj_1;noun EalaY_1;prep ragom_1;noun min_1;prep "_0;punc HAlap_1;noun HiSAr_1;noun "_0;punc fiy_1;prep giyniyA_1;noun_prop 
+1482#dirAsap_1;noun :_0;punc maziyd_1;noun min_1;prep Tifol_1;noun taEar~aD_1;verb <ibAHiy~ap_1;noun EalaY_1;prep <inotironit_1;noun_prop 
+1483#bywnsy jadiyd_1;adj siy_1;abbrev bykyny tagoTiyap_1;noun fatAp_1;noun 
+1484#mAriyjuwAnA_1;noun sAEad_1;verb EalaY_1;prep taxofiyf_1;noun >um~_1;noun EaSab_1;noun fayoruws_1;noun naqoS_1;noun manAEap_1;noun ba$ariy~_1;adj ,_0;punc qAl-u_1;verb dirAsap_1;noun 
+1485#siyriynA_1;noun_prop {ifotaqad_1;verb buTuwlap_1;noun banogAluwr_1;noun_prop 
+1486#mujaf~if_1;noun <iloqA'_1;noun lawom_1;noun EalaY_1;prep nAr_1;noun qatal-u_1;verb 39_0;digit qiT~_1;noun kalob_1;noun 
+1487#rwdyk ,_0;punc mwrAy natiyjap_1;noun fiy_1;prep sAn_1;noun_prop xuwsiyh_1;noun_prop 
+1488#<ibol_1;noun tasowiyap_1;noun munAziE_1;noun tijAriy~_1;adj 
+1489#wilAyap_1;noun mut~aHid_1;adj EalaY_1;prep <inotironit_1;noun_prop wasiyT_1;noun Hub~_1;noun Eayon_2;noun_prop Siyn_1;noun_prop 
+1490#wilAyap_1;noun mut~aHid_1;adj HAl-u_1;verb quw~ap_1;noun muHArabap_1;noun TAlibAn_1;noun_prop 
+1491#' hAws >uwf_1;noun_prop kArdz ' mumav~il_1;noun <iyAn_1;noun_prop riyto$Ardosuwn_1;noun_prop may~it_1;noun 
+1492#maqotal_1;noun zaEiym_1;noun TAlibAn_1;noun_prop fiy_1;prep gArap_1;noun jaw~iy~_1;adj 
+1493#huruwb_1;noun <ilaY_1;prep brAg_1;noun_prop duwn_1;noun jaHofal_1;noun Sayof_1;noun 
+1494#kAtmAndw :_0;punc valoj_1;noun >aw~al_2;adj_num fiy_1;prep 63_0;digit EAm_1;noun 
+1495#nAsodAk_1;noun_prop fa$il-a_1;verb fiy_1;prep muHAwalap_1;noun li_1;prep ls 
+1496#qas~_1;noun qas~_1;noun Hakam-u_1;verb EalaY_1;prep <iEodAm_1;noun 
+1497#Tifol_1;noun walad-i_1;verb EalaY_1;prep twrnbyk baEod_1;noun >ab_1;noun >axoTa>_1;verb xuruwj_1;noun 
+1498#rAbiTap_1;noun dirAsap_1;noun $iymobAnoziy_1;noun wa_1;conj "_0;punc miToraq_1;noun "_0;punc 
+1499#>agAr_1;verb munAx_1;noun EalaY_1;prep xariyTap_1;noun gwgl <yrv 
