@@ -1,4 +1,4 @@
-from data_utils import get_emotion_index,get_emotion_fileindex,normalise,map_binary
+from data_utils import *
 
 
 
@@ -93,10 +93,7 @@ class Arsel(object):
         ----------
         dict[words] :  list of scores
         """
-        try:
-            f = open(file)
-        except:
-            raise FileNotFoundExeption
+        f = open_file(file)
 
         data_dict = {}
         #read first line

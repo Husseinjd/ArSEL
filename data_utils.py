@@ -54,6 +54,26 @@ def load_text_xml(xmlfile):
         dict_data['text'].append(inst.text)
     return pd.DataFrame(dict_data,columns=['id','text'])
 
+def open_file(file):
+    """
+    checks if the file in the directory exists and returns a file if it does
+        raises an error otherwise
+
+    Parameters
+    ----------
+    file : str
+
+
+    Returns
+    -------
+    file object
+
+    """
+    try:
+        f = open(file)
+        return f
+    except:
+        raise FileNotFoundExeption
 
 
 def check_arsenl_data(file):
@@ -64,12 +84,8 @@ def check_arsenl_data(file):
     -----------
     file : str
     """
-    try:
-        f = open(file)
-    except:
-        raise FileNotFoundExeption
     datalist = []
-    for l in f:
+    for l in open_file(file):
         datalist.append(len(l.split(';')))
     #each line should contain a list of 12 elements after splitting
     num_lines = len(datalist)
@@ -134,10 +150,7 @@ def check_duplicates_per_pos(file):
     -----------
     file : str
     """
-    try:
-        f = open(file)
-    except:
-        raise FileNotFoundExeption
+    f = open_file(file)
 
     #read first line
     f.readline()
