@@ -75,6 +75,8 @@ class Evaluator(object):
             for row in readCSV:
                 self.dict_scores_true[int(row[0])] = [float(x) for x in row[1:]]
 
+
+
     def buck_obj(self):
         """Returns a Buckwalter Object containing information about the list of buckwalter sentences
 
