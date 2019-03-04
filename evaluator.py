@@ -7,7 +7,8 @@ from buckwalter import Buckwalter
 
 class Evaluator(object):
     """
-    This class evaluates arsel lexicon
+    This class evaluates arsel lexicon and returns information given a list of
+    sentences in buckwalter form
 
     """
 
@@ -23,7 +24,7 @@ class Evaluator(object):
         """
         self.arsel = arsl
         self.dict_buckwalter = {}
-        self.dict_scores = {}
+        self.dict_scores_true = {}
         self.word_list = []  # used to count the number of uniq words
         self.unsupported_madamira_list = []
 
@@ -65,19 +66,17 @@ class Evaluator(object):
 
         self.buck_obj = Buckwalter(list_buckwalter, pos_uniq)
         self.dataset_stat = self.buck_obj.sent_stat()
-        # self.word_list += buck_obj.buck_dict.keys() #used to cound the number of unique words
-        #self.unsupported_madamira_list += buck_obj.unsupported_madamira_list
-        #self.dict_buckwalter[int(split_line[0])] = buck_obj
+
 
         # load scores converting values to floats
         with open(file_scores) as csvfile:
             readCSV = csv.reader(csvfile, delimiter=',')
             next(readCSV, None)
             for row in readCSV:
-                self.dict_scores[int(row[0])] = [float(x) for x in row[1:]]
+                self.dict_scores_true[int(row[0])] = [float(x) for x in row[1:]]
 
     def buck_obj(self):
-        """Returns a Buckwalter Object
+        """Returns a Buckwalter Object containing information about the list of buckwalter sentences
 
         Returns
         -------

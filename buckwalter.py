@@ -1,5 +1,5 @@
 import numpy as np
-
+from data_utils import *
 
 class Buckwalter(object):
     """
@@ -71,7 +71,7 @@ class Buckwalter(object):
                 self.word_list_visited.append(buck_word)
 
                 try:
-                    self._check_split_buck(split_word)
+                    check_split_buck(split_word)
 
                 except:
                     # word do not have a buckwalter form
@@ -81,7 +81,7 @@ class Buckwalter(object):
 
                 word, pos = split_word
 
-                word = self._clean_word(word)  # remove -,_
+                word = clean_word(word)  # remove -,_
                 # add words to the corresponding POS
                 self._update_pos_dict(word, pos)
                 self.cleaned_word_list_visited .append(word)
@@ -128,32 +128,7 @@ class Buckwalter(object):
             if word not in self.cleaned_word_list_visited:
                 self.unsupported_pos_count += 1  # punc..etc..
 
-    def _clean_word(self, buck_word):
-        """This methods cleans a word if it contained the characters
-            '_' and remove '-' from verbs
 
-        Parameters
-        ----------
-        buck_word : str
-            a string representing a word in buckwalter form without the pos tag
-        Returns
-        -------
-        str
-            cleaned word str in buckwalter form
-
-        """
-        if '_' in buck_word:
-            buck_word = buck_word.split('_')[0]
-
-        if '-' in buck_word:
-            buck_word = buck_word.replace('-', '')
-
-        assert (not ('_' in buck_word)
-                ), "word still contains unwanted characters"
-        assert (not ('-' in buck_word)
-                ), "word still contains unwanted characters"
-
-        return buck_word
 
     def sent_stat(self):
         """Returns sentences information
@@ -207,18 +182,7 @@ class Buckwalter(object):
 
         return dict_stat
 
-    def _check_split_buck(self, split_buck):
-        """
-        This method checks whether each buckwalter word is in the form
-        of word;pos
-
-        Parameters
-        ----------
-        split_buck : list
-
-        """
-        assert len(split_buck) == 2, "The word has {} elements".format(
-            len(split_buck))
+    
 
     def __str__(self):
         note = ''

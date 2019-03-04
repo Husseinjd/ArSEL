@@ -8,6 +8,52 @@ This module contains methods to clean and load datafiles if needed
 and some usefull methods
 """
 
+
+
+
+def check_split_buck(split_buck):
+    """
+    This method checks whether each buckwalter word is in the form
+    of word;pos
+
+    Parameters
+    ----------
+    split_buck : list
+
+    """
+    assert len(split_buck) == 2, "The word has {} elements".format(
+        len(split_buck))
+
+
+def clean_word(buck_word):
+    """This methods cleans a word if it contained the characters
+        '_' and remove '-'
+
+    Parameters
+    ----------
+    buck_word : str
+        a string representing a word in buckwalter form without the pos tag
+    Returns
+    -------
+    str
+        cleaned word str in buckwalter form
+
+    """
+    if '_' in buck_word:
+        buck_word = buck_word.split('_')[0]
+
+    if '-' in buck_word:
+        buck_word = buck_word.replace('-', '')
+
+    assert (not ('_' in buck_word)
+            ), "word still contains unwanted characters"
+    assert (not ('-' in buck_word)
+            ), "word still contains unwanted characters"
+
+    return buck_word
+
+
+
 def load_scores_data(file,columns=None):
     """
     Returns a dataframe of a given csv datafiles
@@ -102,6 +148,7 @@ def get_emotion_index(emotion):
     -----------
     emotion : str
     """
+    emotion = emotion.lower()
     if emotion == 'anger':
         return 0
     elif emotion == 'disgust':
