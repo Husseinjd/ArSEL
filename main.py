@@ -1,6 +1,4 @@
 from arsenl import Arsel
-import numpy as np
-import pandas as np
 
 
 if __name__ = "__main__":
