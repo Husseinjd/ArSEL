@@ -27,8 +27,15 @@ class Buckwalter(object):
         self.unsupported_pos_count = 0
         self.unsupported_word = 0
         self.buckwalter_list = buckwalter_list
+        self.word_list_visited = []
+        self.cleaned_word_list_visited = []
         # each word mapped to its pos (contains  words found)
-        self.buck_dict = {}
+        self.buck_dict = {
+            'noun': [],
+            'verb': [],
+            'adv': [],
+            'adj': []
+        }
         self.unsupported_madamira_list = []
         self.word_uniq_count = 0  # only unique , might contain words from more than 4 pos
         self.pos_uniq = pos_uniq
@@ -52,36 +59,34 @@ class Buckwalter(object):
         buckwalter_list :
                     list of all the buckwalter sentences
         """
+
         for sent in self.buckwalter_list:
             splitted_sentence = sent.split(' ')
             for buck_word in splitted_sentence:
                 split_word = buck_word.split(';')
                 self.word_count += 1
+                # update list of unique words and increase count
+                if self._check_uniq(buck_word):
+                    self.word_uniq_count += 1
+                self.word_list_visited.append(buck_word)
+
                 try:
                     self._check_split_buck(split_word)
+
                 except:
                     # word do not have a buckwalter form
-                    self.unsupported_madamira_list.append(split_word)
+                    self.unsupported_madamira_list.append(buck_word)
                     self.unsupported_word += 1  # words that madamira couldnt figure out a pos
-                    # empty pos for unsupported words
-                    self.buck_dict[split_word[0]] = ''
                     continue
 
                 word, pos = split_word
+
                 word = self._clean_word(word)  # remove -,_
+                # add words to the corresponding POS
+                self._update_pos_dict(word, pos)
+                self.cleaned_word_list_visited .append(word)
 
-                # check if word+pos is already in the dict
-                if self._check_uniq(word, pos) & self.pos_uniq:
-                    self.word_uniq_count += 1
-                    # checkOS
-                    self._update_pos_count(pos)
-
-                if not self.pos_uniq:
-                    self._update_pos_count(pos)
-
-                self.buck_dict[word] = pos
-
-    def _check_uniq(self, word, pos):
+    def _check_uniq(self, buckform_word):
         """Checks if a word already have been seen with the same tag
         (used for calculating the unique count of words by pos)
 
@@ -95,32 +100,33 @@ class Buckwalter(object):
         boolean
             True if a word is uniq  false otherwise
         """
-        if word in self.buck_dict.keys():
-            if self.buck_dict[word] == pos:
-                return False
-        return True
+        if buckform_word not in self.word_list_visited:
+            return True
+        return False
 
-    def _update_pos_count(self, pos):
-        """This method updates the pos tags based on  uniqueness requirement
+    def _update_pos_dict(self, word, pos):
+        """This method updates the buckwalter dict lists according to their pos
 
         Parameters
         ----------
+        word : str
+
         pos : str
-            word part of speech (noun,verb)
+            word part of speech (noun,verb..)
 
         unique : boolean
         """
-        if pos in ['verb', 'noun', 'adj', 'adv']:
-            if pos == 'verb':
-                self.verb_count += 1
-            if pos == 'noun':
-                self.noun_count += 1
-            if pos == 'adj':
-                self.adjective_count += 1
-            if pos == 'adv':
-                self.adverb_count += 1
+        if 'noun' in pos :
+            self.buck_dict['noun'].append(word)
+        elif 'verb' in pos:
+            self.buck_dict['verb'].append(word)
+        elif 'adj' in pos:
+            self.buck_dict['adj'].append(word)
+        elif 'adv' in pos:
+            self.buck_dict['adv'].append(word)
         else:
-            self.unsupported_pos_count += 1  # punc..etc..
+            if word not in self.cleaned_word_list_visited:
+                self.unsupported_pos_count += 1  # punc..etc..
 
     def _clean_word(self, buck_word):
         """This methods cleans a word if it contained the characters
@@ -168,14 +174,24 @@ class Buckwalter(object):
         unsupported pos count: int
         unsupported count: int
         """
+
         uns_uniq = 0
         info_list = ['verbs_count', 'nouns_count', 'advs_count', 'adjs_count']
+        val_pos = []
         if self.pos_uniq:
             info1 = ['uniq_' + x for x in info_list]
             verbs_c, nouns_c, advs_c, adjs_c = info1
-            uns_uniq = len(self.buck_dict) - self.word_uniq_count
+            uns_uniq = len(list(set(self.unsupported_madamira_list)))
+            self.verb_count = len(list(set(self.buck_dict['verb'])))
+            self.noun_count = len(list(set(self.buck_dict['noun'])))
+            self.adverb_count = len(list(set(self.buck_dict['adv'])))
+            self.adjective_count = len(list(set(self.buck_dict['adj'])))
         else:
             verbs_c, nouns_c, advs_c, adjs_c = info_list
+            self.verb_count = len(self.buck_dict['verb'])
+            self.noun_count = len(self.buck_dict['noun'])
+            self.adverb_count = len(self.buck_dict['adv'])
+            self.adjective_count = len(self.buck_dict['adj'])
 
         dict_stat = {
             verbs_c: self.verb_count,
@@ -183,6 +199,7 @@ class Buckwalter(object):
             advs_c: self.adverb_count,
             adjs_c: self.adjective_count,
             'words_count': self.word_count,
+            # includes  unique both supported and unsupported
             'words_uniq': self.word_uniq_count,
             'unsupported_count': self.unsupported_word,
             'unsupported_uniq_count': uns_uniq,

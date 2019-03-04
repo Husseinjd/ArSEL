@@ -87,19 +87,20 @@ class Evaluator(object):
         return self.buck_obj
 
     def dataset_info(self):
-        """Returns info accross all the dataset
+        """Returns a dict containing info about the current dataset
 
         Returns
         -------
         dict
             dict containing the different stats as keys:
-            verbs_count
-            nouns_count
-            advs_count
-            adjs_count
+            uniq/verbs_count
+            uniq/nouns_count
+            uniq/advs_count
+            uniq/adjs_count
             words_count
             word_uniq_count
             unsupported_count
+            unsupported_uniq_count
             unsupported_pos_count
         """
         # returns the uniq word count that contains everything including the supported and not unsupported
