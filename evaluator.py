@@ -2,6 +2,7 @@ from arsel import Arsel
 import pandas as pd
 from data_utils import *
 import csv
+from buckwalter import Buckwalter
 
 
 class Evaluator(object):
@@ -9,7 +10,8 @@ class Evaluator(object):
     This class evaluates arsel lexicon
 
     """
-    def __init__(self,arsl):
+
+    def __init__(self, arsl):
         """
         intializes an evaluator and loads data required for evaluation
         calculating import metrics.
@@ -22,8 +24,20 @@ class Evaluator(object):
         self.arsel = arsl
         self.dict_buckwalter = {}
         self.dict_scores = {}
+        self.word_list = []  # used to count the number of uniq words
+        self.unsupported_madamira_list = []
 
-    def load(self,file_sentences,file_scores):
+        self.dataset_stat = {'verbs_count': 0,
+                             'nouns_count': 0,
+                             'advs_count': 0,
+                             'adjs_count': 0,
+                             'words_count': 0,
+                             'word_uniq_count': 0,
+                             'unsupported_count': 0,
+                             'unsupported_pos_count': 0,
+                             'pos_uniq': False}
+
+    def load(self, file_sentences, file_scores, pos_uniq=False):
         """
         The methods loads the a file with buckwalter sentences and
         another file with the true scores of the sentences by id
@@ -38,25 +52,61 @@ class Evaluator(object):
             id,anger,disgust,fear,joy,sadness,surprise
 
         """
-        buck_sentences = open_file(file_sentences)
+        self.dataset_stat['pos_uniq'] = pos_uniq
 
-        #load ids and buckwalter sentences
+        buck_sentences = open_file(file_sentences)
+        list_buckwalter = []
+        # load ids and buckwalter sentences
         for l in buck_sentences:
             self._check_buck(l)
             split_line = l.split('#')
-            self.dict_buckwalter[int(split_line[0])] = split_line[1].strip() #removing new line character
+            # removing new line character
+            list_buckwalter.append(split_line[1].strip())
 
+        self.buck_obj = Buckwalter(list_buckwalter, pos_uniq)
+        self.dataset_stat = self.buck_obj.sent_stat()
+        # self.word_list += buck_obj.buck_dict.keys() #used to cound the number of unique words
+        #self.unsupported_madamira_list += buck_obj.unsupported_madamira_list
+        #self.dict_buckwalter[int(split_line[0])] = buck_obj
 
-        #load scores converting values to floats
+        # load scores converting values to floats
         with open(file_scores) as csvfile:
             readCSV = csv.reader(csvfile, delimiter=',')
             next(readCSV, None)
             for row in readCSV:
                 self.dict_scores[int(row[0])] = [float(x) for x in row[1:]]
 
+    def buck_obj(self):
+        """Returns a Buckwalter Object
 
+        Returns
+        -------
+        Buckwalter obj
 
-    def _dataframe_data(dict_data,columns):
+        """
+        return self.buck_obj
+
+    def dataset_info(self):
+        """Returns info accross all the dataset
+
+        Returns
+        -------
+        dict
+            dict containing the different stats as keys:
+            verbs_count
+            nouns_count
+            advs_count
+            adjs_count
+            words_count
+            word_uniq_count
+            unsupported_count
+            unsupported_pos_count
+        """
+        # returns the uniq word count that contains everything including the supported and not unsupported
+        # and including all pos tags
+        return self.dataset_stat
+
+    def _dataframe_data(dict_data, columns):
         """
         This method takes a dictionary and returns a data frame with the given columns
         Parameters
@@ -68,10 +118,9 @@ class Evaluator(object):
         DataFrame
 
         """
-        return pd.DataFrame.from_dict(dict_data,orient='index',columns=columns)
+        return pd.DataFrame.from_dict(dict_data, orient='index', columns=columns)
 
-
-    def _check_buck(self,sentence):
+    def _check_buck(self, sentence):
         """
         This methods checks if the buckwalter sentences
         has any discripencies regarding the format of 'id#sentences'
@@ -81,8 +130,8 @@ class Evaluator(object):
         ----------
         file_sentences : str
         """
-        count=0
+        count = 0
         for c in sentence:
-            if c =='#':
-                count+=1
-        assert (count == 1) , sentence + ": sentence contains more than one #"
+            if c == '#':
+                count += 1
+        assert (count == 1), sentence + ": sentence contains more than one #"
