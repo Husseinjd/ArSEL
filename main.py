@@ -1,4 +1,4 @@
-from arsenl import Arsel
+from arsel import Arsel
 
 
 if __name__ = "__main__":
@@ -7,4 +7,4 @@ if __name__ = "__main__":
     verb ='arsel/arsel_v.txt'
     adv = 'arsel/arsel_r.txt'
     nouns = 'arsel/arsel_n.txt'
-    arsenl = Arsenl(adj,nouns,verb,adv)
+    arsenl = Arsel(adj,nouns,verb,adv)
